@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_segment,product_id,product_title,product_category,product_type,sales_channel,quantity,unit_price,discount,cost,gross_margin
+32699f63-3573-474d-8f49-b289d46035dd,2025-03-02,16a21fae-5a2b-4e14-af8c-77927efec629,VIP,89,Nike Baseball Cleats,mens-shoes,Nike,e-commerce,8,79.99,18.04,44.99,280.01
+5705d4a9-245f-488c-8a04-c94a79d83013,2025-03-02,343f6f80-6d32-46c2-a62b-ffb44a5a8a1f,New,11,Annibale Colombo Bed,furniture,Annibale Colombo,e-commerce,2,1899.99,8.57,1446.8,906.38
+8f4f7187-1384-4353-94ac-dc0f38f4014e,2025-05-10,ac414f7e-d6a0-4dbe-bf54-df1a528c61f4,New,97,Rolex Datejust,mens-watches,Rolex,e-commerce,3,10999.99,3.73,5665.7,16002.86
+5a059202-1008-497c-8fc5-3e95e1eb04da,2024-07-27,520bdd9b-94a9-43e2-b625-624c90e33d55,New,25,Green Bell Pepper,groceries,,direct,9,1.29,0.16,0.86,3.86
+c4c63a64-da08-449e-b899-c6ebd1ad773b,2024-10-04,8fcaee23-1744-4084-a531-52315edd8fae,VIP,64,Knife,kitchen-accessories,,e-commerce,9,14.99,18.86,7.98,63.07
+1c567bd6-431d-44ea-81ed-d243c6a7bdd2,2025-04-02,61311b27-18cd-4f40-ad04-94de72124eeb,Regular,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,direct,9,29.99,15.35,17.36,113.65
+d5befc15-a3bf-4b16-8492-47fc61236216,2024-12-28,42811c75-a2bd-4539-9282-0ee017107a83,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,e-commerce,1,499.99,2.01,279.14,220.85
+49d35372-9a79-452c-a09a-49c9cb009473,2024-09-10,7db1aea6-2970-4d93-a89c-23641c4de3bd,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,e-commerce,5,499.99,2.01,300.78,996.04
+f46dce3c-c54c-4275-af28-cc577bee787a,2025-03-28,180ab1df-e66b-4441-b9d3-5caebdffa13f,Regular,62,Ice Cube Tray,kitchen-accessories,,e-commerce,9,5.99,0.63,4.01,17.83
+b69b1cae-7e81-49fd-9c62-d63b1187a864,2025-06-18,4a117fbc-3a44-4b18-9681-7eb0f84a3f1f,Regular,30,Kiwi,groceries,,e-commerce,1,2.49,15.22,1.48,1.01
+4748d75a-01aa-48d5-afcc-20f043d610e1,2024-08-15,cc88074a-bbf0-41e7-8d1a-7ee4b861a518,New,47,Table Lamp,home-decoration,,e-commerce,5,49.99,7.09,38.84,55.75
+f8d0d4bf-5012-4583-8ea1-61335e4a5ea9,2025-04-27,473da994-2b01-4b0d-b3a0-56a13d583128,VIP,69,Plate,kitchen-accessories,,direct,2,3.99,7.31,2.28,3.42
+1e74a9ad-74c2-4a9d-979f-e73c09fa6b86,2024-12-05,8f123f85-c2bf-4d13-bb5e-3580d20c01c4,New,26,Green Chili Pepper,groceries,,direct,5,0.99,1.0,0.51,2.41
+d7e87b16-cd0d-4764-be78-180a51e1b4df,2025-04-29,d635eeb7-8191-46e4-b144-6867c6764906,VIP,94,Longines Master Collection,mens-watches,Longines,direct,7,1499.99,17.24,945.74,3879.76
+4633c027-5935-462e-a2d2-9043c659e5f9,2024-12-25,818ec471-9077-4e6f-b302-651743ce0fb7,Regular,52,Carbon Steel Wok,kitchen-accessories,,direct,9,29.99,6.53,18.42,104.15
+279ab715-90a4-488a-a037-4bc8b5dbfd24,2024-08-06,c1265125-58f0-4227-bb30-6ddf53369f99,New,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,2,1499.99,11.89,869.24,1261.49
+c9802a3f-fa0c-457f-bd6a-976cfc37407a,2024-09-28,b3834bb7-c26d-4b84-afef-9e57140197cd,New,10,Gucci Bloom Eau de,fragrances,Gucci,e-commerce,5,79.99,14.39,58.05,109.72
+b03cf2d5-365f-44a5-b237-54343114d53c,2024-10-31,4c197f32-4fc4-4a38-8ffb-d1d757bd7f9c,VIP,5,Red Nail Polish,beauty,Nail Couture,e-commerce,6,8.99,11.44,6.37,15.71
+91542259-eba4-4279-800d-7e23d9c90161,2024-09-10,b6dfd59b-ad9e-4a72-bc03-6ef529abdb9f,Regular,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,5,49.99,1.89,28.74,106.25
+b1fd124e-e25e-4471-9c05-34d07082708a,2025-04-04,12139b9e-9841-45db-aea9-0015e68e62a3,Regular,54,Citrus Squeezer Yellow,kitchen-accessories,,e-commerce,3,8.99,12.1,4.6,13.18
+3b27edbd-cb04-4520-a378-49d38a724ff9,2025-01-07,74beacb6-454b-4893-ad6b-e3d0457c7ad7,New,5,Red Nail Polish,beauty,Nail Couture,direct,6,8.99,11.44,5.54,20.67
+75a82b79-6bc2-49e5-8eee-1c0f824705c2,2024-09-04,433e2ed9-688c-4d37-b149-2c97f270d358,New,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,e-commerce,7,799.99,8.8,447.54,2467.15
+14fb6094-a919-4ce0-81a1-0e511bc41394,2025-03-27,3f9b261d-0788-45ab-a415-19b7eefd1393,VIP,11,Annibale Colombo Bed,furniture,Annibale Colombo,e-commerce,8,1899.99,8.57,1041.84,6865.18
+dde8ed16-73ba-4d7a-bd59-dbafccbaf7d1,2025-05-02,82999bb5-2520-41cf-8950-58146b661dbe,Regular,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,e-commerce,8,499.99,2.01,316.15,1470.74
+e8662cd5-cc3f-4150-b6e5-bd7d24c02735,2024-12-14,5f02902f-c441-4141-a14d-08ecf44084ea,New,38,Rice,groceries,,direct,4,5.99,9.29,3.46,10.12
+f7106a4f-d4b9-4815-acbb-d232c05568d8,2024-12-22,f4018bda-734b-4655-971f-ab6f83a83a61,VIP,47,Table Lamp,home-decoration,,direct,3,49.99,7.09,30.89,57.3
+4231ffd9-1d45-43ac-af8c-66de0b05a9d7,2024-12-22,82602336-f4f1-4e57-aafb-20640e5ecf27,New,80,Huawei Matebook X Pro,laptops,Huawei,direct,9,1399.99,9.38,1116.06,2555.4
+19c72fed-c987-4427-8cb7-de463f87771e,2025-01-04,0e376291-d2e1-41d7-8716-f302c5ecda73,Regular,72,Slotted Turner,kitchen-accessories,,direct,3,8.99,13.35,5.22,11.3
+67558075-9318-48ae-8a7a-12ef4570bb0a,2025-05-20,735370ad-b030-4984-a016-264c5e9383c2,New,99,Amazon Echo Plus,mobile-accessories,Amazon,direct,4,99.99,12.07,56.31,174.73
+486fffde-322e-4ee4-a75b-58f3e589ec38,2025-02-19,7df8fd7e-c6fa-44e2-8a6c-ba68eb1aa53e,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,6,34.99,19.5,20.65,86.02
+db17cd25-3a8c-4908-8dd3-51d66dc5753c,2025-02-03,6b08de1d-5b3e-4d33-b1eb-0546b12ba7c9,VIP,49,Black Aluminium Cup,kitchen-accessories,,direct,7,5.99,15.65,3.11,20.19
+eab18c72-b2d2-42fc-8c00-9f752e7894c2,2025-03-09,ed146aee-5815-42ca-a59b-bed91ff52c0c,VIP,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,8,34.99,19.5,24.37,84.99
+83715afc-0252-40a8-834b-5c5c31090d99,2025-05-11,54e5b77b-9ff4-4e12-87f7-00e5e7422df1,Regular,33,Mulberry,groceries,,direct,9,4.99,12.87,3.35,14.74
+1f97f32f-c680-4480-87d2-d9dd53114a2d,2025-02-26,05e8e2c9-35b5-4dae-9ee2-7cfe3c5d82b3,New,19,Chicken Meat,groceries,,e-commerce,5,9.99,13.7,5.2,23.96
+2d3a38ea-0e85-4761-a260-4d9001b19de7,2025-06-11,ed2320ab-9ee0-4224-87a8-5f9c4fad6fa5,New,96,Rolex Cellini Moonphase,mens-watches,Rolex,e-commerce,3,12999.99,17.52,9982.59,9052.2
+e3eec50a-7e4e-4cb6-8bfa-6bdd10aba6af,2024-10-12,5009405b-fe11-4010-83b7-837ab2f14537,Regular,12,Annibale Colombo Sofa,furniture,Annibale Colombo,e-commerce,7,2499.99,14.4,1922.63,4041.55
+2f3e13be-8925-4a5b-a4b3-8e5c7e7a5b41,2025-02-20,cb5fef73-cc31-45df-ba1d-2322ebb349ca,New,67,Mug Tree Stand,kitchen-accessories,,direct,8,15.99,9.25,11.84,33.23
+df071252-7756-4488-b50c-ce8664c369dc,2024-08-22,34ec7c01-ba46-47fc-b628-c762e5662bf1,Regular,61,Hand Blender,kitchen-accessories,,e-commerce,4,34.99,17.02,23.14,47.4
+1b2848fd-6d95-47be-b2b7-72cc2d1d591b,2025-04-19,d64c0820-5688-4384-ab98-33c965ff38fd,New,63,Kitchen Sieve,kitchen-accessories,,direct,4,7.99,18.91,5.6,9.56
+d6a0ef9c-d417-4a78-a50f-942175991a27,2024-11-10,2554214f-8d31-407e-a2bf-ab72f66d693f,New,81,Lenovo Yoga 920,laptops,Lenovo,direct,7,1099.99,6.55,706.49,2754.49
+95dc312b-a1ab-4981-89d7-59446cf18ebe,2025-03-11,11117756-930a-4f2c-801f-29eb1217d12b,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,direct,1,499.99,2.01,364.59,135.4
+3e20765a-7bed-4327-9d08-88b794591607,2025-05-25,b7e239f9-12f0-4730-80eb-bcc443733e60,VIP,50,Black Whisk,kitchen-accessories,,e-commerce,8,9.99,10.24,7.23,22.06
+f3cc1081-c990-4172-9b02-47f74798c8c7,2025-03-08,f510efb6-448d-444f-878b-40aabcc591a7,VIP,58,Fork,kitchen-accessories,,e-commerce,2,3.99,8.07,2.42,3.14
+5dc4e879-77d6-416b-bd13-3da3dca91907,2024-12-14,c79ebca2-fa72-4e14-aeca-ad362630519e,VIP,100,Apple Airpods,mobile-accessories,Apple,e-commerce,10,129.99,15.54,66.0,639.9
+0fe6f825-3571-4f9b-be55-98e1a0e797f8,2024-09-18,8179612d-5066-47d6-8bc9-2c0d7599d6de,Regular,50,Black Whisk,kitchen-accessories,,direct,8,9.99,10.24,5.47,36.13
+635c653f-90ff-43c9-9d88-931719624002,2024-12-31,cf194abf-baaa-4fed-b039-60f64352383a,VIP,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,e-commerce,6,89.99,5.99,55.53,206.75
+2cd20ae3-c910-4b1b-99ce-96b32b51aa05,2024-12-23,8348ec86-9132-45e5-a664-fb70c3195c6d,New,5,Red Nail Polish,beauty,Nail Couture,direct,1,8.99,11.44,5.14,3.85
+ac401f4f-7667-43d4-bd8b-6e15f449f544,2024-07-25,7cafc245-575a-4fc4-91d2-84b4fcc7b384,Regular,63,Kitchen Sieve,kitchen-accessories,,e-commerce,6,7.99,18.91,5.31,16.1
+58de461b-7ba5-4993-81c5-8e4a439136f1,2024-07-17,680028b8-e7c5-4571-a933-6efcc011c02a,New,29,Juice,groceries,,e-commerce,1,3.99,12.06,3.05,0.94
+4b7c22b0-5196-493d-93e5-5e204a262028,2025-03-31,a8a1ad3d-4390-4981-8f75-a09e6e64863c,VIP,41,Tissue Paper Box,groceries,,e-commerce,3,2.49,13.28,1.33,3.49
+126b86ff-3c18-447e-be3f-561f4c8e2d1b,2024-08-24,9fb56988-be90-436c-837f-a50057ab2c79,VIP,22,Dog Food,groceries,,e-commerce,2,10.99,10.27,6.27,9.43
+eef953fa-59e9-4877-8c8c-9eaea7c2aa97,2024-09-22,6944dcc5-1d71-401a-ac0f-8cf3cfaa9ad4,VIP,18,Cat Food,groceries,,e-commerce,1,8.99,9.58,4.95,4.04
+a62de0bd-baf3-4080-965a-b9dc11f75999,2025-05-21,6b8a6445-ef5e-406b-85f3-45b45fe0a684,New,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,3,34.99,19.5,17.9,51.28
+b3934896-fe4e-4794-a529-29e4b4e57d9c,2025-01-17,bc6d00df-1a79-4324-a0af-763465b95768,Regular,92,Sports Sneakers Off White Red,mens-shoes,Off White,direct,6,109.99,0.04,82.44,165.28
+d93285d5-56cb-47dd-8185-0abe04d6a605,2024-10-09,a916a1b9-cdc8-4796-9946-f279e08d7cb3,New,35,Potatoes,groceries,,direct,5,2.29,5.38,1.79,2.52
+c3af0da1-0960-40d3-9c82-f9ffd94a46e5,2025-06-07,41cb1a7e-88a1-4097-bec2-fff1f8e20da6,VIP,67,Mug Tree Stand,kitchen-accessories,,e-commerce,8,15.99,9.25,9.64,50.83
+8d21ebe1-52b5-4a2f-8710-873734932205,2024-12-01,fff106d5-05a6-4e8d-87f6-42b961f6088e,Regular,31,Lemon,groceries,,direct,8,0.79,9.7,0.42,3.0
+cb24f354-481f-4bff-9bda-09d727a27b2e,2025-02-13,7c7e6a0c-7e3e-45b9-bafa-90cbd6e8aca4,New,91,Sports Sneakers Off White & Red,mens-shoes,Off White,e-commerce,3,119.99,4.97,80.98,117.03
+c2e2c091-291f-4f62-addd-68bb33a8d8cc,2024-07-23,217eaee8-000c-47c5-8c5c-c33dbb2dd6f6,New,30,Kiwi,groceries,,e-commerce,7,2.49,15.22,1.44,7.33
+b0656736-8516-41af-99db-460c690dc510,2025-05-31,2f56cbd1-9d04-49a7-96fc-1de9f8e49fac,VIP,68,Pan,kitchen-accessories,,e-commerce,10,24.99,3.0,14.21,107.84
+edac1137-95b0-4e93-8632-e0d6247a1d90,2025-01-22,b4b6763f-6aa6-4e7b-b16a-af9949d309f1,VIP,73,Spice Rack,kitchen-accessories,,e-commerce,1,19.99,12.09,10.83,9.16
+30212548-95eb-4753-8df3-437cf61fb458,2024-07-17,200294a7-a3ce-4fd5-b77a-8a4081495a3e,Regular,72,Slotted Turner,kitchen-accessories,,direct,10,8.99,13.35,6.85,21.41
+2604438e-b48e-4607-a029-8e088b69f2b5,2025-05-05,9861976a-f619-4e7d-83b1-2b2f671384b0,Regular,63,Kitchen Sieve,kitchen-accessories,,direct,5,7.99,18.91,5.2,13.93
+87993a96-9bb8-4bdd-b4c0-1d44d0923e82,2024-12-21,b9fb6181-f310-4117-90d6-e4e9424613be,New,12,Annibale Colombo Sofa,furniture,Annibale Colombo,e-commerce,1,2499.99,14.4,1548.9,951.09
+bad2fd19-56f2-4729-895d-a1a43a275ff5,2024-10-12,5c0c4288-2724-4e14-93f1-faf01dc62329,VIP,10,Gucci Bloom Eau de,fragrances,Gucci,direct,3,79.99,14.39,57.81,66.54
+42a9c00d-cb0e-4b13-939b-2918b31aa10c,2024-09-04,910ae7ea-4494-42a8-8305-c8d84c743f92,New,26,Green Chili Pepper,groceries,,direct,4,0.99,1.0,0.65,1.36
+f8dbcdea-c2fc-4052-9f3b-664f078e4ca1,2024-11-08,0c4f3d4a-9bfe-47b6-a913-032403582925,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,10,34.99,19.5,22.98,120.1
+9c002637-e237-4b97-b30d-6ba1516aed06,2024-09-20,e5c7dcf1-9621-480e-ab9c-eeb64984d6fc,New,47,Table Lamp,home-decoration,,direct,4,49.99,7.09,39.33,42.63
+cf3591e7-942f-4c66-aa35-236864d5f49f,2024-11-26,245799ec-fab9-45cd-9490-aa1d0e10d0f9,VIP,30,Kiwi,groceries,,direct,6,2.49,15.22,1.34,6.92
+f44b9a3e-68c4-4e8b-ab04-5a12c21c618e,2025-03-29,b921cb72-bf4d-4b06-89d1-1ad10352826d,Regular,69,Plate,kitchen-accessories,,direct,3,3.99,7.31,2.9,3.28
+a4c3df24-5240-4ea9-a564-9f8f95446e77,2025-02-18,2e0ea343-3370-4d58-8f2c-15be979bd141,Regular,97,Rolex Datejust,mens-watches,Rolex,direct,7,10999.99,3.73,7625.52,23621.3
+8629336a-b5fe-47a1-9672-0da3d04c0324,2025-04-22,41ba1849-23c3-4878-bb28-455482f375b8,New,54,Citrus Squeezer Yellow,kitchen-accessories,,direct,9,8.99,12.1,6.88,18.98
+65e8be87-4851-445f-841f-9731da19253b,2025-02-15,5c4e3b73-6655-4af7-b900-546919ca0a7d,VIP,39,Soft Drinks,groceries,,e-commerce,8,1.99,17.48,1.55,3.5
+dc9f8d0b-a8d0-4267-abc9-40500e3305c7,2024-09-16,284efb08-a34a-44f3-b734-0c9a3eaf40eb,New,33,Mulberry,groceries,,e-commerce,10,4.99,12.87,2.56,24.27
+f72c6e0e-531c-4ecb-b08e-9a5dfdfbcb1f,2025-01-10,57cee090-71bb-473b-afd1-d77025b3c91f,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,1,34.99,19.5,26.57,8.42
+93f07a4b-731c-4f5e-ae05-0710aa473286,2024-08-24,d987cd4c-ac76-4bc1-ad3f-f33fc1ccf6c4,VIP,24,Fish Steak,groceries,,e-commerce,9,14.99,4.23,8.16,61.45
+0c5c224a-6a76-4ba6-b41a-0a48005c714b,2025-05-01,4a978f28-dbe0-47b1-a819-0c3fc1b8d014,VIP,33,Mulberry,groceries,,direct,5,4.99,12.87,3.72,6.33
+3909e0e1-c850-451c-9e42-77d74b21cc1a,2025-05-29,1b536148-3f45-420f-ad71-adf5c0a8e220,Regular,69,Plate,kitchen-accessories,,direct,10,3.99,7.31,2.68,13.13
+6d296976-9512-4bd4-8508-b98bfba7275b,2025-06-24,4f25ee31-7d79-46fb-a254-fc027a254e28,Regular,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,7,129.99,16.51,82.98,329.06
+c7562890-bcf6-411d-9b25-98cb10c87bae,2025-04-13,1cc25535-0685-4343-b672-01a3f4dfa238,Regular,56,Electric Stove,kitchen-accessories,,direct,7,49.99,14.04,33.15,117.91
+9b825bbb-592f-418f-a957-2bf98701b5d3,2024-07-19,415b0f1a-451f-47fd-8941-609f1de80e19,VIP,34,Nescafe Coffee,groceries,,direct,3,7.99,1.59,4.14,11.56
+f62a502a-802f-4d4e-9ebd-fc631b4e9f7e,2024-12-31,e4611407-bb86-471b-9308-84d3dbec995a,New,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,8,129.99,16.51,103.29,213.59
+5a81742e-0b7d-4c80-b1f9-cc945f8ecba4,2024-09-18,f5478c69-09e8-44a0-90c9-c3dfe3bec0bf,VIP,33,Mulberry,groceries,,direct,7,4.99,12.87,3.1,13.23
+218936b6-1d1a-43eb-95a1-51c8aa97e2b1,2024-11-11,5647dcf2-386d-41be-9e44-c8ce14d7e0ac,New,74,Spoon,kitchen-accessories,,direct,3,4.99,1.53,3.65,4.01
+22f4fc4b-d44f-414e-a4dd-436f1684acc0,2025-01-28,fb2753dc-8357-4bfc-b659-c45666de1701,New,57,Fine Mesh Strainer,kitchen-accessories,,e-commerce,3,9.99,3.5,6.64,10.06
+67f7bc1b-82d9-41ef-9d5e-9038ed4ee411,2025-07-02,eb2cfc4c-7a3e-4b0a-93fb-a512df04fd53,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,2,34.99,19.5,24.03,21.91
+3814bbe5-f421-4bec-a154-22c954ddcb93,2024-09-10,a3f53689-34ac-4218-85d4-b2a078dfb4fb,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,e-commerce,6,499.99,2.01,381.11,713.28
+441f4bd4-1d93-4fe4-87d6-2c349a25368e,2024-11-24,7c9449f2-616b-47a6-aa8a-484a871c56ca,New,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,direct,7,1799.99,11.14,1311.59,3418.83
+2a911c95-c01a-4850-860b-a98684490ad9,2025-01-12,452ada8c-5129-4d51-8037-46e334b40b06,Regular,99,Amazon Echo Plus,mobile-accessories,Amazon,e-commerce,7,99.99,12.07,70.66,205.28
+80d717c0-0430-482e-a31e-fee2dd5e1d44,2025-05-08,7235fbf5-4944-40e0-b911-e41dcde8df44,VIP,75,Tray,kitchen-accessories,,direct,3,16.99,7.48,11.73,15.78
+f5a4d58b-cb75-48b7-8356-54f1c8a2dc46,2024-11-26,6fdf1b36-b832-492c-9d13-f6b3d014f927,Regular,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,direct,5,19.99,18.19,14.48,27.56
+c9f66679-f0bb-48ee-aa78-e9d747d7a7e3,2024-07-23,1a68096f-00f7-4e66-84f1-641147414d00,VIP,45,House Showpiece Plant,home-decoration,,e-commerce,10,39.99,7.46,31.25,87.38
+478c857c-1ac5-432f-b251-d6f1ab579d62,2024-12-20,b18bdbcd-9aaa-4b53-8145-ccdbb421b91e,New,76,Wooden Rolling Pin,kitchen-accessories,,direct,8,11.99,9.75,6.16,46.62
+221b5d6a-a99e-4f3f-ba23-beddbaaf2610,2024-10-04,62fa1dd1-acd8-412d-a3f6-f4a5501e37f4,New,55,Egg Slicer,kitchen-accessories,,e-commerce,9,6.99,14.76,4.64,21.19
+ba1eea3c-e0d8-4f80-9fc7-a646ee41436b,2024-12-05,cf84d869-d732-4649-a3f0-bc2a88f59415,New,41,Tissue Paper Box,groceries,,e-commerce,3,2.49,13.28,1.26,3.68
+292a46ac-769f-43ca-a3f0-2d63cfaea2ef,2025-01-26,6a20cee9-3b57-435a-9c2c-d342756eb58e,VIP,96,Rolex Cellini Moonphase,mens-watches,Rolex,e-commerce,1,12999.99,17.52,10201.4,2798.59
+9d9f7204-c26b-472c-8f4d-10f8341bc066,2025-04-19,d8a81a1e-48d4-4614-bbea-5d6363b98a36,New,62,Ice Cube Tray,kitchen-accessories,,e-commerce,3,5.99,0.63,3.17,8.47
+251fd8c3-c75e-42fc-b40e-536cfef7cab0,2025-03-02,75f98112-984d-4a7d-9fe8-bafb359109d7,New,26,Green Chili Pepper,groceries,,e-commerce,4,0.99,1.0,0.76,0.93
+a3e0b075-8620-45f2-b9e2-f44c57995a55,2025-06-08,0bbe6cf3-3498-4686-b1d3-2c6e1de45626,Regular,12,Annibale Colombo Sofa,furniture,Annibale Colombo,e-commerce,9,2499.99,14.4,1747.31,6774.13
+be3185ad-0fa5-414e-aab7-86ef047fd512,2025-03-03,7404ae6c-7104-4597-8d0b-b7f18d7ec1e2,VIP,6,Calvin Klein CK One,fragrances,Calvin Klein,e-commerce,7,49.99,1.89,30.09,139.28
+d07b5dd0-6fd3-4dc1-8c27-cff1d7cedc86,2024-09-23,ed3144b1-519d-4bf3-819d-65946d9b42c9,VIP,91,Sports Sneakers Off White & Red,mens-shoes,Off White,direct,8,119.99,4.97,69.26,405.81
+e8d2c94b-cc81-460d-9695-0107821322a6,2025-04-08,d7270536-8bd2-4c40-ab25-3448e5a5ba7f,VIP,29,Juice,groceries,,direct,10,3.99,12.06,3.09,8.96
+96d20919-ad44-4454-a7ee-6b08f7ba2808,2025-02-07,d05f176f-ccdf-432c-82f4-f486cf9d1193,VIP,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,e-commerce,7,149.99,4.12,94.14,390.98
+8579a658-c577-4175-b844-e4905942aae7,2025-01-09,7ad56524-a2e7-41d8-a372-ce532e93528e,VIP,77,Yellow Peeler,kitchen-accessories,,direct,2,5.99,12.48,3.22,5.55
+499056bc-d8a0-494f-b5c0-fe4eaed06e53,2024-08-15,14caa00a-f5b1-4b8c-bc1c-2deb271149f1,New,55,Egg Slicer,kitchen-accessories,,e-commerce,1,6.99,14.76,3.96,3.03
+2c810641-8298-43bd-9a4f-09ee96c8256e,2024-07-21,a20b8e7e-b1da-48a5-aa6f-88d7d240537d,Regular,25,Green Bell Pepper,groceries,,e-commerce,7,1.29,0.16,1.01,1.94
+72bc36e1-660a-45e3-9450-6fccd5fdcd90,2025-01-03,8bf232f6-7ab9-4f38-99e7-0efc29db4555,VIP,8,Dior J'adore,fragrances,Dior,e-commerce,8,89.99,14.72,70.7,154.3
+45083e96-8a6e-473c-abdc-cdab0756ec38,2025-01-30,39672f7b-e372-4ea9-a945-f6266a70caec,VIP,62,Ice Cube Tray,kitchen-accessories,,direct,1,5.99,0.63,4.37,1.62
+2cd5569e-485a-48aa-b621-68273548c64c,2024-11-05,94967f69-7b87-400b-a8f6-54e33d5f48cb,VIP,87,Men Check Shirt,mens-shirts,Urban Chic,direct,5,27.99,11.38,18.94,45.27
+b87795e0-bafb-4807-b46d-4bc59237e7e6,2024-08-03,76f7a8b2-8978-4f10-b55c-b934ca578526,New,30,Kiwi,groceries,,e-commerce,10,2.49,15.22,1.55,9.4
+db249015-39e5-4a51-a9db-8cfb9d18b225,2024-10-27,825e0cea-37af-44a3-a8be-9a5d1155de5c,New,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,6,1499.99,11.89,1176.18,1942.84
+e28d8a59-25d3-4fbb-b705-90f44d906526,2025-01-09,8bf2a518-98be-4cf1-96d7-834b195b8a9f,VIP,39,Soft Drinks,groceries,,direct,2,1.99,17.48,1.21,1.55
+f7866085-699c-42e9-a99a-5e6616ee53b6,2025-06-19,2edb5e4c-1065-4ab5-bd5f-6c34b5b5be3f,VIP,34,Nescafe Coffee,groceries,,direct,7,7.99,1.59,5.08,20.36
+60463740-2e45-4fae-ac98-d671055b19a2,2024-07-21,c9d028e4-2b6b-4509-9278-2a09bccbe961,Regular,49,Black Aluminium Cup,kitchen-accessories,,direct,2,5.99,15.65,4.08,3.82
+e2dec747-fcf4-4131-8cef-a9c8dd213325,2025-06-06,e4887108-8a4c-45ee-b0a5-d2d9c2ec9d0f,New,21,Cucumber,groceries,,e-commerce,4,1.49,0.16,1.08,1.64
+472af18c-ecf3-4be2-95c8-76291b1d448d,2024-10-29,e4dccf4c-b4a1-499c-b636-cbd6dc4a48fa,VIP,44,Family Tree Photo Frame,home-decoration,,direct,1,29.99,14.87,23.59,6.4
+285ea28e-dbf1-47e1-9c22-71f789eef3e5,2024-07-10,bc27950c-475f-491d-ba9e-2cb49a494604,Regular,31,Lemon,groceries,,e-commerce,5,0.79,9.7,0.56,1.14
+0e037f8d-f0c5-4e1a-80d8-007955e38459,2024-11-20,a3a3e27f-277d-4f63-aace-effc01d104de,Regular,60,Grater Black,kitchen-accessories,,direct,3,10.99,3.56,7.68,9.92
+1b3387b5-85ab-4bcc-813f-af5aebe1e79e,2025-01-19,443c766c-b003-46fc-bb6e-f38e96aa1e79,Regular,22,Dog Food,groceries,,e-commerce,6,10.99,10.27,6.14,29.08
+ef7da24b-e01e-4f9b-bcb9-3fd265e59ba7,2025-03-20,7771bcc4-78cd-4c91-bd0c-ddefdb6b7c48,Regular,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,e-commerce,9,799.99,8.8,597.23,1824.83
+d78e7f94-9e23-4a9e-9007-6df30696553d,2025-06-06,60cf88f5-07a5-455d-b2dc-33c156250664,VIP,57,Fine Mesh Strainer,kitchen-accessories,,e-commerce,6,9.99,3.5,7.64,14.08
+e26db9fc-a32a-4221-b863-2a85ad9e678c,2024-11-01,32519131-4ef0-40c1-ac64-86c3a7a5b1ce,Regular,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,6,129.99,16.51,103.12,161.21
+b38caca6-876f-47f4-a76c-9fb41b60f9fd,2024-07-19,be041609-0ce3-4aad-89eb-ba4c9fa01502,New,62,Ice Cube Tray,kitchen-accessories,,direct,9,5.99,0.63,3.36,23.63
+1ccffdeb-d233-4350-90fd-07cba4425f6a,2025-03-17,cc9c7916-299c-4e20-abcb-916e23f50b36,New,67,Mug Tree Stand,kitchen-accessories,,e-commerce,6,15.99,9.25,10.28,34.26
+ceff35c5-5ebb-4bf8-961b-80c8b29d175e,2025-04-06,0e828019-e1b9-47a2-83ae-ce12f84d97f1,New,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,direct,1,69.99,0.62,38.28,31.71
+078e0579-7284-4f22-9a4a-f1d3a37f85ec,2024-11-24,86c2d4a8-e2ac-4fb6-b800-683fe1345306,New,69,Plate,kitchen-accessories,,e-commerce,1,3.99,7.31,2.2,1.79
+c0a07809-9bdf-4cb4-b53e-09d2ded81938,2025-03-08,4cae2177-b0b4-4dbc-9409-dd20deac32d5,VIP,82,New DELL XPS 13 9300 Laptop,laptops,Dell,e-commerce,7,1499.99,11.89,818.51,4770.39
+aedbf2fb-47e3-4362-80de-9e04bbc73b6e,2025-03-29,b5c5dedc-2b12-41ca-86fb-5036ed20781d,New,70,Red Tongs,kitchen-accessories,,direct,3,6.99,14.52,4.38,7.84
+a0630d3b-7cbd-48a0-8d10-98255224a1b2,2025-05-06,fccda0c9-2fe8-4fa9-84ff-85fc315ae272,New,66,Microwave Oven,kitchen-accessories,,e-commerce,8,89.99,12.13,50.27,317.78
+2051dac1-a748-4c0f-9b92-0b5feef7dff3,2025-04-06,08b5b948-f3d4-4371-a195-913a5f2b8183,Regular,42,Water,groceries,,direct,8,0.99,14.92,0.5,3.91
+2caa6d06-0ba9-4dc0-9119-6e43733b8e50,2025-05-10,c552119b-6873-4ab9-b636-7537c5c497b7,Regular,57,Fine Mesh Strainer,kitchen-accessories,,e-commerce,3,9.99,3.5,6.23,11.29
+56b7fa1b-f3c8-49da-a1b4-d186b008be13,2024-11-14,1b4f2ba2-5040-4b16-9d14-3e1d0276d0a1,Regular,47,Table Lamp,home-decoration,,direct,5,49.99,7.09,29.19,103.98
+bb5c177f-81df-48c3-852d-d75c552e7241,2024-07-25,a249a276-ec65-44e1-ab8a-d1b8a4c87cee,VIP,32,Milk,groceries,,e-commerce,7,3.49,13.74,2.43,7.4
+d740f4fc-9c81-4ab0-8295-00baf06e39b1,2025-02-26,5887911e-3ffe-4f21-8d9d-809f0e01b0de,Regular,67,Mug Tree Stand,kitchen-accessories,,e-commerce,2,15.99,9.25,10.38,11.22
+88e6d3d9-31ef-452c-8599-0f31ec235434,2024-11-05,1c08b7f1-15fc-4983-b8d0-6bdd82b2aa3a,VIP,74,Spoon,kitchen-accessories,,direct,4,4.99,1.53,3.09,7.59
+03e73c4a-3ae8-4a16-a0d3-16bd45a54f87,2024-09-25,41d71daf-274f-4dd4-a74d-50606205e56a,New,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,direct,5,24.99,0.94,12.67,61.59
+5ca01cf5-b84f-440b-a83e-2a7ea231beb4,2025-06-23,b2fa08b1-24ed-4d3d-91be-2ee29b155c45,Regular,57,Fine Mesh Strainer,kitchen-accessories,,e-commerce,10,9.99,3.5,7.32,26.69
+d1753bb4-3319-40d7-bba4-be1b6af2cf2b,2024-08-28,44b73df7-4050-49f4-8eb3-8fe3231074c0,VIP,94,Longines Master Collection,mens-watches,Longines,direct,9,1499.99,17.24,1027.3,4254.25
+5faf26be-cb10-4bde-b98f-f25ddc53b34b,2025-06-06,c691c06a-ac6d-4ca6-bcd3-e22d3c878d97,VIP,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,10,49.99,1.89,29.28,207.07
+ab211a79-4c7f-4512-83d3-337e2621ea3f,2024-12-01,2504c1ee-e479-4d18-bf64-d4ab35bbb5ac,Regular,17,Beef Steak,groceries,,direct,2,12.99,9.61,9.63,6.71
+85141f1f-2c9a-4a1b-963e-8af8232b8828,2024-09-27,ff607d7d-224e-4b19-b583-569271289117,Regular,64,Knife,kitchen-accessories,,e-commerce,10,14.99,18.86,8.36,66.32
+e7a3f279-d98d-4802-91f1-f1f64282e644,2024-09-03,8371ca5c-158c-4238-83dd-17193b741fb3,New,16,Apple,groceries,,e-commerce,9,1.99,12.62,1.53,4.17
+f6782e74-f6ef-404e-972f-5bf5add0bdf4,2024-08-06,25625152-aa38-4fda-93ca-f6630d5b1807,VIP,59,Glass,kitchen-accessories,,e-commerce,10,4.99,7.92,3.81,11.76
+b9d72406-c7d1-461c-a9b0-1e30810c3d67,2025-02-28,7b1d574a-b14c-4f3e-b887-48ab74435faf,Regular,10,Gucci Bloom Eau de,fragrances,Gucci,direct,7,79.99,14.39,54.26,180.14
+eb318c5c-f7cf-4b18-98b7-a298f9b3c4ff,2024-10-24,99c3e58e-ac04-4562-85ac-b9511c547db7,VIP,41,Tissue Paper Box,groceries,,e-commerce,5,2.49,13.28,1.61,4.41
+93597440-f761-4f5d-a09a-ab9786100ffa,2024-07-18,0fd32ef0-273d-4396-a9ba-6c30e25fdd49,VIP,18,Cat Food,groceries,,direct,8,8.99,9.58,6.88,16.88
+15534067-adce-4585-93af-53e10cc0ce9e,2024-12-27,a115588a-6833-4774-a0cb-b76822a6133a,Regular,68,Pan,kitchen-accessories,,direct,8,24.99,3.0,14.24,85.98
+60f16971-4a62-4c5f-94eb-b94561fad67b,2024-10-07,f4f2ea23-fed7-40d1-a597-f1a0aef419ba,New,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,e-commerce,9,8999.99,8.88,4559.6,39963.48
+dfe15dab-0484-4aa4-9a34-462cc3335951,2025-07-04,bedc5049-eee8-464e-8faf-6db508add1e4,VIP,60,Grater Black,kitchen-accessories,,direct,2,10.99,3.56,7.55,6.87
+8d3f9d2a-51e2-4de4-b35f-1a0c05156009,2025-04-29,f2ded2cb-b280-4b04-9a4a-0bc065fc30c2,New,32,Milk,groceries,,direct,1,3.49,13.74,2.07,1.42
+4032cdc0-5162-4627-a5a3-7318a0015ead,2024-10-26,8381d694-dcc8-4865-99ff-40ec74e93cf3,VIP,42,Water,groceries,,direct,6,0.99,14.92,0.75,1.45
+d4e84af0-13ef-4f95-8e2d-fa6c99dac572,2025-03-23,53ab718d-4d47-4f59-afff-8ec9033c0e82,New,76,Wooden Rolling Pin,kitchen-accessories,,direct,7,11.99,9.75,6.85,35.96
+7bb99ec5-582d-4d10-b9a3-f0eb1f04af87,2024-07-24,80184b94-d4c8-4d9b-8d79-8c68a681105f,New,11,Annibale Colombo Bed,furniture,Annibale Colombo,e-commerce,8,1899.99,8.57,1324.74,4601.98
+94dfe4b9-184d-4190-a926-20d829bb0310,2024-09-13,da57215c-db9f-444b-9e25-beb1a2a5a896,VIP,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,10,34.99,19.5,26.55,84.36
+abf46df6-ba9d-4915-bb53-7b18a5c5b374,2024-12-24,c2088d1b-abd9-44a3-b454-967277c580a5,Regular,51,Boxed Blender,kitchen-accessories,,direct,3,39.99,7.26,21.82,54.5
+03e5b576-9e84-4ed4-828d-25602d1b6b2d,2024-10-25,c1f6a8c1-f6a4-4346-9fbd-c38a38111cc4,Regular,25,Green Bell Pepper,groceries,,direct,5,1.29,0.16,1.0,1.47
+6327d6fc-1744-4e35-b6d7-1aaec2ee3515,2024-12-08,7a7f10e2-aa4f-4122-804c-0f1bfa3e2a7e,Regular,75,Tray,kitchen-accessories,,e-commerce,8,16.99,7.48,13.39,28.82
+27ce4485-2b12-490a-a135-30d914faa6a9,2025-05-07,d7ff2c31-a88b-4743-9018-f731746158ef,New,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,e-commerce,2,8999.99,8.88,6560.74,4878.49
+32c781bf-385d-44b5-87ca-2efcaa2c83e7,2024-07-16,38a7936f-fc77-436e-abac-fda25ad476e0,Regular,74,Spoon,kitchen-accessories,,direct,10,4.99,1.53,3.91,10.82
+69f6350d-8df0-40dd-a2fc-b05b9d41aaee,2025-02-05,e852efbe-da52-46be-bf84-08b6aa3ec18b,Regular,49,Black Aluminium Cup,kitchen-accessories,,direct,2,5.99,15.65,4.01,3.97
+9f46231e-3cff-4055-821b-e8d8e63e1a20,2024-10-03,97e42fc6-6c2f-4568-a850-c0d16a568c81,Regular,63,Kitchen Sieve,kitchen-accessories,,e-commerce,10,7.99,18.91,4.1,38.85
+3f69f5e2-5f74-4a88-acda-e0fe71fac89f,2025-03-16,376a8ac7-4402-4190-bbea-10dc31ff154e,VIP,62,Ice Cube Tray,kitchen-accessories,,direct,10,5.99,0.63,4.36,16.35
+01e72e8c-9e37-4085-b57e-cecd01a8ccaf,2024-10-26,6bc2bc96-d05c-46f1-8a3f-bf82322c453d,Regular,19,Chicken Meat,groceries,,direct,4,9.99,13.7,5.22,19.08
+c4c65ef0-15f5-43d4-8b2f-8220b9135d80,2024-10-14,7c50ddde-3e21-4ceb-b171-2e89c3f59f5c,New,24,Fish Steak,groceries,,direct,2,14.99,4.23,8.62,12.74
+e721207f-e57f-4ae9-b05b-ef2b16bcc225,2024-12-31,59ef7fe0-8c1a-4d8f-92d0-2b4175abca00,New,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,5,1499.99,11.89,759.17,3704.12
+486f3910-12d9-448c-9d2b-72eac7fae311,2024-12-03,97cc257d-2f97-4e93-8aea-7f15e04ccc5f,New,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,direct,10,8999.99,8.88,6827.95,21720.42
+f0d0c3f4-2f52-480b-bd38-d41186eaece8,2025-01-29,58c151a3-d823-4d82-abcb-76aeedc1ec3c,New,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,direct,4,1799.99,11.14,1196.59,2413.59
+06ce195c-385d-454b-a384-c5bf03d57c9c,2025-06-04,7d5d4315-1289-4a4b-8431-40473b292398,VIP,77,Yellow Peeler,kitchen-accessories,,e-commerce,2,5.99,12.48,4.01,3.97
+a73ae60d-c3f8-4eaa-808e-3e1c07268c60,2024-10-27,791d28e4-69f9-4fa6-b4e6-d8a4638f8e52,Regular,80,Huawei Matebook X Pro,laptops,Huawei,direct,8,1399.99,9.38,1109.01,2327.87
+1cff3e50-9e84-436a-89d6-b20735c92b78,2024-12-24,bbed3457-630f-4c23-83a8-1f73d54f59f2,Regular,94,Longines Master Collection,mens-watches,Longines,direct,3,1499.99,17.24,1090.02,1229.92
+3233d735-94e1-42bd-9f17-cdde315ecffd,2024-11-08,89aa7a69-10bf-4da9-8cf1-82a87a8ef8a5,VIP,31,Lemon,groceries,,direct,6,0.79,9.7,0.44,2.1
+e7c9228b-bb26-41fb-9f17-6a045bbc6846,2024-08-14,c46d2e70-fad4-4628-8062-0169296a0648,New,97,Rolex Datejust,mens-watches,Rolex,direct,9,10999.99,3.73,7551.74,31034.28
+c7838a59-4610-4ce7-ba1d-cebfd515e52d,2024-09-02,b902f45f-771f-4270-88d1-255e3c1d44b0,Regular,56,Electric Stove,kitchen-accessories,,direct,10,49.99,14.04,25.19,247.98
+d24f32c8-92ad-465c-9fc1-dbdf03b8ecf6,2024-08-05,6429f556-3c96-4e8c-89a7-9b85f41e269f,New,74,Spoon,kitchen-accessories,,direct,3,4.99,1.53,2.83,6.49
+c26c73ac-6a85-4d56-bfe3-acdbb7356bc2,2025-04-02,bb8e5e89-4e95-4d60-9a2b-265fb04c3767,New,33,Mulberry,groceries,,direct,4,4.99,12.87,2.99,7.99
+c74da2b9-796b-45ce-ad80-3d51245bc724,2024-11-04,bf2e860a-318c-4e66-a693-70e57dfe8bfc,Regular,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,1,1499.99,11.89,1020.3,479.69
+6586d9ab-ed2f-49b3-a4b4-da64fae908fe,2024-12-31,be88c23d-c62e-4781-ab3c-c1d88351e56f,Regular,23,Eggs,groceries,,direct,4,2.99,11.05,2.05,3.78
+efb46aff-26f4-4a91-be03-b0b7936c0261,2025-02-22,a36aca21-bf4d-403f-8871-e0f2627d96a7,VIP,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,1,1499.99,11.89,1006.89,493.1
+75beefc9-63c8-4ea8-a58c-606efc6a9bf5,2024-09-01,433eedb5-2707-4053-891b-191014edcdd9,VIP,94,Longines Master Collection,mens-watches,Longines,direct,10,1499.99,17.24,979.78,5202.08
+fd11507a-0427-4011-b6a9-df3d055acbf8,2024-12-31,00fd87e3-fd4c-4720-adab-2e06768c059a,New,53,Chopping Board,kitchen-accessories,,direct,7,12.99,8.03,10.31,18.79
+c600a89a-81d2-44f0-9cde-2c155ded58bd,2025-03-04,5d3a888b-b0d4-4b0a-ad7c-94fcab33adf6,New,87,Men Check Shirt,mens-shirts,Urban Chic,direct,5,27.99,11.38,16.18,59.07
+d0a16545-5015-4486-971b-a237381dda3f,2024-11-15,05c3d2d4-fae5-471a-9143-c6f2e95c6b1a,VIP,99,Amazon Echo Plus,mobile-accessories,Amazon,direct,9,99.99,12.07,54.28,411.42
+854b04a8-d373-4a60-aada-1290bb5664e4,2025-06-16,64432a3e-5b89-4cb9-883a-a3b47b8ed14d,VIP,91,Sports Sneakers Off White & Red,mens-shoes,Off White,direct,9,119.99,4.97,86.61,300.41
+e6ab43d9-3cac-4967-bc33-31e73d9adcb4,2024-11-19,7e48383c-53fb-48c2-8633-fdde825a7035,New,65,Lunch Box,kitchen-accessories,,direct,10,12.99,10.34,7.86,51.34
+87758502-faf5-412e-90f0-21fd6ed5f098,2025-03-14,4393e1a2-ef43-4393-a31a-a9b102dda076,New,51,Boxed Blender,kitchen-accessories,,direct,5,39.99,7.26,24.52,77.37
+baf04be5-8444-4a35-acf2-c00731541485,2024-12-11,00516a55-3ecb-4cdf-a858-67889e852608,VIP,66,Microwave Oven,kitchen-accessories,,e-commerce,5,89.99,12.13,58.05,159.68
+da54dda9-9bbf-4dbc-a652-b0f0dbcd2aad,2025-01-08,e40f7959-c881-4639-9533-b977b03ef33d,New,77,Yellow Peeler,kitchen-accessories,,direct,4,5.99,12.48,4.18,7.23
+685e8fa4-97ee-40ef-b814-3c7a79df8fcf,2025-05-19,675abeee-3345-4a98-84a2-24adce146e7a,VIP,11,Annibale Colombo Bed,furniture,Annibale Colombo,direct,5,1899.99,8.57,1317.8,2910.97
+a419dc8d-d6fc-4ca7-9c42-f62e27a3dc62,2024-09-04,70356d21-c1d1-4133-9d22-4d045547c10c,Regular,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,direct,2,69.99,0.62,52.35,35.28
+464c585b-6ce7-4c90-b3ad-539560578de9,2024-11-14,c16702c9-b026-4234-a977-b5d881ad16ca,VIP,55,Egg Slicer,kitchen-accessories,,direct,9,6.99,14.76,4.34,23.83
+57290ee6-9205-401c-a7d1-4ed5686a8517,2025-01-23,3dd24c84-91e8-483f-a4ea-677039bd04d6,Regular,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,e-commerce,5,799.99,8.8,505.24,1473.73
+c8edaf6c-807a-4475-a56e-75e776522c2a,2025-01-27,3670c60e-dea6-455d-a84c-6632752dfc52,VIP,10,Gucci Bloom Eau de,fragrances,Gucci,direct,6,79.99,14.39,47.56,194.57
+b0a4791e-6299-478c-af63-93577861c054,2024-12-10,aeb592f8-5c47-410c-b0f6-8c6a7f7b644d,New,21,Cucumber,groceries,,direct,4,1.49,0.16,1.08,1.63
+d2b37388-22a8-4987-923b-d417854a2990,2024-12-27,339a490f-152b-4b00-978d-a446c73b7057,Regular,47,Table Lamp,home-decoration,,e-commerce,7,49.99,7.09,27.0,160.96
+057a66d9-c168-47c5-92f6-aaf9e62f7368,2025-05-26,9ffbfdfd-5cc7-4078-8413-10927f27aae9,VIP,3,Powder Canister,beauty,Velvet Touch,direct,2,14.99,9.84,9.79,10.41
+85f9c177-60d7-4b31-aaa3-0594d30c546f,2024-12-18,e160b5da-dc41-4d12-bed1-023546b6c995,Regular,27,Honey Jar,groceries,,direct,6,6.99,14.4,4.87,12.75
+c5e2e851-e3af-47fd-aae7-a3b2d8ce5164,2025-01-16,ff041e43-2f0f-4d14-a8d3-1916cc0b28ff,VIP,90,Puma Future Rider Trainers,mens-shoes,Puma,direct,9,89.99,4.2,63.57,237.79
+66f2ef00-10d3-421b-8d32-f42bf65e6239,2024-11-01,2de89334-9939-4848-aade-ed32ea9eb187,New,99,Amazon Echo Plus,mobile-accessories,Amazon,direct,2,99.99,12.07,65.96,68.06
+22f72ec4-38a2-4ed0-98c6-31f506146068,2024-12-19,47f62cfe-2549-49de-a4c4-3fe90effd9f6,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,2,34.99,19.5,19.45,31.08
+7f8395f5-8c22-4510-8734-a9ac2969596c,2025-07-02,c8c8d5dc-ce18-4fad-86a4-1ad21ce43a06,Regular,22,Dog Food,groceries,,direct,1,10.99,10.27,7.68,3.31
+9218f082-516a-4a6e-aa71-a7fc891677d8,2025-06-23,221180a8-03f1-4741-9ad8-f80ee005bc5b,Regular,99,Amazon Echo Plus,mobile-accessories,Amazon,e-commerce,8,99.99,12.07,59.71,322.22
+e15bad76-0757-41ac-84b5-132300ec5d2d,2025-01-15,1b7cefb3-f7cb-4f13-a718-620f9df8b2c1,VIP,64,Knife,kitchen-accessories,,e-commerce,10,14.99,18.86,10.07,49.19
+b2ed2fd1-f8aa-44b4-9ab8-be8936c7ae43,2025-02-20,a6b3262d-a482-42e7-9642-e981671f7b9d,Regular,20,Cooking Oil,groceries,,direct,8,4.99,9.33,3.27,13.73
+a548b85f-9682-4fe5-b78e-a6e7291e50e6,2025-04-20,6c28e099-d22e-4c79-8f59-cfa6c8315ab9,VIP,3,Powder Canister,beauty,Velvet Touch,e-commerce,5,14.99,9.84,7.96,35.14
+cce384df-c9da-43b9-ada4-b5cba106f458,2024-11-27,98d10001-a397-47a1-981d-d11b286925f3,New,65,Lunch Box,kitchen-accessories,,direct,8,12.99,10.34,9.07,31.36
+067a5936-a233-42d8-9960-547948776e63,2024-08-15,a1ecbc05-79e2-4b6d-bac2-ed06b8691d97,New,87,Men Check Shirt,mens-shirts,Urban Chic,direct,3,27.99,11.38,14.53,40.39
+a0d0a2f6-6dd7-4c5e-ab18-01530ca1358e,2025-06-18,a91c01b1-8213-47a2-a754-3410092b9a95,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,direct,4,499.99,2.01,250.92,996.3
+62e9b0f7-7657-432a-bf72-bd48aa13a0bc,2024-10-15,bb910033-91d7-4221-8c8e-46f21439f56c,Regular,98,Rolex Submariner Watch,mens-watches,Rolex,e-commerce,10,13999.99,5.05,7679.18,63208.13
+60fce7ae-96f6-406e-bdc5-4a1236f3365d,2025-02-13,bbe49045-64ce-42e3-8e20-16cbea54d8df,VIP,16,Apple,groceries,,direct,10,1.99,12.62,1.09,9.02
+115c8f81-4257-496a-9aa6-88d75a54054b,2025-04-17,49f3fb30-c7a6-4742-9ab1-1c2bc5c597b6,VIP,32,Milk,groceries,,direct,10,3.49,13.74,2.65,8.35
+d933f052-6c48-49a1-ad66-1511c156826d,2024-10-28,6fc9a759-3609-45d4-bba6-28df6cb768b8,VIP,38,Rice,groceries,,e-commerce,4,5.99,9.29,4.69,5.19
+eb1c89de-8846-4960-a4a5-efdd99bba2ba,2025-04-22,9e9d1d51-f762-4334-9449-2e410e974b36,VIP,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,direct,10,19.99,6.83,15.79,42.0
+c012a855-f268-4d2c-b9fc-421e4e89183e,2024-11-25,32cc83a5-fce3-41f2-8ffa-ab858bf49beb,Regular,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,direct,2,89.99,5.99,62.58,54.82
+b2fca92f-8f4c-4b0b-a68e-d1983e9bfd3c,2025-01-23,b53cba11-36f7-4e46-a09b-6c76b328e912,New,68,Pan,kitchen-accessories,,direct,2,24.99,3.0,14.07,21.84
+afc9dde7-8eef-4606-8128-355fb8274b03,2025-05-14,a60231ae-bc5c-4989-b3cc-711dc1113a30,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,direct,5,499.99,2.01,361.92,690.37
+ccde9b1d-a0c2-40bc-a3f7-dcfc38b39a19,2025-05-25,352faaf6-abf1-432d-b602-af6a6df055ff,New,68,Pan,kitchen-accessories,,direct,1,24.99,3.0,13.4,11.59
+e8ac0340-42e8-4935-a2b0-14af228d6439,2024-09-28,e4931a96-d2c0-4d2d-9d62-599b1c444aeb,Regular,48,Bamboo Spatula,kitchen-accessories,,e-commerce,9,7.99,2.84,5.7,20.65
+34fcab2d-0ed3-453c-86a8-c5d1256e479b,2025-05-12,fae8b400-8b57-4f80-821e-f755c78ee9e4,New,94,Longines Master Collection,mens-watches,Longines,e-commerce,1,1499.99,17.24,776.7,723.29
+f30e27b0-4489-4c36-8cb7-afffcd025771,2024-08-01,8e670498-915a-40c5-8300-a62ce88aac25,VIP,23,Eggs,groceries,,e-commerce,9,2.99,11.05,1.99,8.97
+31f61162-9ca8-4879-bc72-6a98dff4d199,2025-05-14,aa7a5cbc-710c-4766-8220-d631a64e94c5,Regular,57,Fine Mesh Strainer,kitchen-accessories,,direct,2,9.99,3.5,7.99,4.01
+e9229dd2-3af9-469e-83bf-15485c21d089,2024-09-08,ef8b2b31-588e-47f1-ad73-089d0088f4df,VIP,34,Nescafe Coffee,groceries,,direct,8,7.99,1.59,5.33,21.29
+299dc23d-0938-4b17-9ffb-aa406058be9d,2025-02-13,5f29c488-1486-40d9-8a2e-f557095fec54,Regular,73,Spice Rack,kitchen-accessories,,e-commerce,1,19.99,12.09,11.28,8.71
+a7cde47f-48e0-423a-9b57-97607bc5f87d,2024-09-29,70bf85cf-a397-43be-b8d8-38eacd146e08,Regular,24,Fish Steak,groceries,,direct,10,14.99,4.23,8.82,61.74
+0c2effe7-fea1-4fe1-8757-b69c5418251f,2024-11-04,3b6e0915-3f10-4fc1-95e0-bb8b75f6ad96,Regular,27,Honey Jar,groceries,,e-commerce,6,6.99,14.4,3.62,20.22
+94ed7aaf-d169-4b81-83a0-318dd9dcce50,2024-11-08,06b7c04e-570a-4c6c-98cf-d2c22e209799,New,42,Water,groceries,,e-commerce,3,0.99,14.92,0.73,0.77
+1e51e01d-ba91-4f0c-a9db-c2d382cbc181,2024-09-18,a75731fe-1a76-41fb-a84f-a3b78c28b26a,VIP,73,Spice Rack,kitchen-accessories,,direct,4,19.99,12.09,13.59,25.61
+9bc51e82-55df-4cd4-a397-11a208e624f1,2024-12-25,7b4ee05d-366c-4c11-ac3f-ab93e9adaaea,New,80,Huawei Matebook X Pro,laptops,Huawei,direct,2,1399.99,9.38,838.26,1123.46
+8aaa6471-4ce4-42a5-a0f1-8890c17059c3,2025-05-20,ea7fe606-582f-4a4c-b554-d236062d5c66,Regular,19,Chicken Meat,groceries,,direct,1,9.99,13.7,5.32,4.67
+0793621f-a88b-4de8-aaa5-31ebed009189,2025-05-27,f9340801-e87e-4630-a5a6-4853aca0f189,New,5,Red Nail Polish,beauty,Nail Couture,direct,4,8.99,11.44,7.11,7.5
+9f5c6eb7-3bfd-4dbf-93ef-5a2d52ca3701,2024-09-12,41336038-759b-4758-a46b-a92afcf4d80f,VIP,57,Fine Mesh Strainer,kitchen-accessories,,direct,4,9.99,3.5,6.94,12.19
+997fbd3b-a088-4a3f-b3fa-ae747fdee92e,2025-05-03,9661d728-8c31-4765-b329-98a7bd66874c,New,75,Tray,kitchen-accessories,,e-commerce,2,16.99,7.48,10.66,12.67
+eed3fabf-1486-4ff5-95c7-f3cb19fb164f,2025-06-16,4cbc77ec-8bf1-4f7b-b96b-21dba613ec76,New,69,Plate,kitchen-accessories,,direct,3,3.99,7.31,3.05,2.83
+5da1a758-ed6b-4e2a-a52a-941e1c1503ff,2024-10-08,562f0369-00d5-4efd-b6fe-28d98548536c,New,25,Green Bell Pepper,groceries,,direct,10,1.29,0.16,0.66,6.3
+acc44177-b0c8-4602-8c8f-b7cceaec232c,2025-06-08,81b34e5d-5110-47b4-9554-476409c4a2e8,New,81,Lenovo Yoga 920,laptops,Lenovo,direct,4,1099.99,6.55,566.8,2132.77
+f07b20ca-8c28-42a6-911d-8ada8cebf1b2,2024-10-29,08a5f1a1-9a45-410e-83a2-7b24224c2d36,VIP,13,Bedside Table African Cherry,furniture,Furniture Co.,direct,7,299.99,19.09,172.85,889.95
+c474be4f-82a9-4546-8138-cb34882bce91,2025-03-27,881e1327-dc4b-45fe-9800-efdb61eed2fc,New,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,9,34.99,19.5,18.53,148.14
+23c8d2d8-d76c-4c60-9a1d-c5cf950e4e07,2025-05-04,60f62288-2ace-4894-ae25-fa86021344bd,New,61,Hand Blender,kitchen-accessories,,direct,7,34.99,17.02,21.0,97.94
+c04db88e-0986-4095-87f9-038c7b4b846e,2024-10-26,51a5ccb8-6115-4581-8690-59ab33cdfab2,Regular,28,Ice Cream,groceries,,direct,7,5.49,8.69,3.22,15.88
+d7a0b241-d214-4ec0-818c-d7005ccb05e2,2025-05-26,e3411352-b566-4b19-b4b2-ab22d395ceb9,VIP,81,Lenovo Yoga 920,laptops,Lenovo,direct,4,1099.99,6.55,843.89,1024.41
+e6caf43d-491f-49ad-9058-dc596039fbf0,2024-12-14,d66dda71-b73b-4d1e-b872-45aeaf58130d,Regular,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,e-commerce,1,8999.99,8.88,4564.16,4435.83
+45718550-f298-498a-8940-871e4e899690,2024-09-08,7ea404d4-728b-4041-af19-f04488015b32,Regular,70,Red Tongs,kitchen-accessories,,direct,1,6.99,14.52,4.2,2.79
+3fb64e42-e7e5-4907-889a-8f80f1c4b094,2025-04-04,7797c596-e372-4168-bf9f-aa697ffe1afd,New,94,Longines Master Collection,mens-watches,Longines,direct,1,1499.99,17.24,932.94,567.05
+76afc6ce-1c62-4b64-bf2e-fd0e2e44f2a1,2024-10-21,5698c9de-27f5-4c60-ad5c-71c246c9a333,New,60,Grater Black,kitchen-accessories,,direct,3,10.99,3.56,6.36,13.88
+dbf5cd27-5455-42a4-9f56-17d0c6a88cd9,2025-04-20,6f4bf0af-a256-4f47-bae1-2c3e54a65f2b,Regular,67,Mug Tree Stand,kitchen-accessories,,e-commerce,7,15.99,9.25,8.79,50.39
+a0c053ca-9166-4d42-9433-3df7df916948,2025-02-27,b6c75262-ec5d-417d-be21-8a415285738e,Regular,29,Juice,groceries,,e-commerce,6,3.99,12.06,2.84,6.92
+c12db993-3264-4394-b846-ebea743c04bb,2025-03-25,7df99444-1e50-405e-af31-603e237731f2,Regular,29,Juice,groceries,,e-commerce,5,3.99,12.06,2.93,5.28
+bb1ff4e6-c8bf-4746-a9a1-acd1a490a517,2024-11-06,e604745b-d312-4147-8903-5a2412d92a0a,New,91,Sports Sneakers Off White & Red,mens-shoes,Off White,e-commerce,2,119.99,4.97,82.33,75.31
+b94abab5-6d49-4d4e-a42e-088b85b85e27,2025-04-06,d975cdc7-175c-4fbb-8e31-c1a1afd211e3,New,75,Tray,kitchen-accessories,,e-commerce,6,16.99,7.48,12.86,24.79
+1d5ac25e-6a9b-4ea0-8e48-9d8b1716cfc9,2024-09-16,ece7c691-e4e1-48e6-bc1c-4d179017f44b,VIP,36,Protein Powder,groceries,,e-commerce,3,19.99,7.59,10.01,29.95
+62be8376-6e4c-4c64-8354-cb7db180d055,2024-10-17,91242817-ced9-4610-98a4-ef079912471b,Regular,31,Lemon,groceries,,direct,5,0.79,9.7,0.45,1.72
+b27ca3df-d76f-48ee-a7e5-dcd31de2e5b8,2025-06-12,fbae9392-65fb-49eb-bccf-11387444a6d3,Regular,6,Calvin Klein CK One,fragrances,Calvin Klein,e-commerce,3,49.99,1.89,35.66,42.99
+f4315daf-ca9d-4284-a723-3d7660f4b450,2024-09-13,968b320c-7f79-4435-aa03-8a166a1f3ec4,New,66,Microwave Oven,kitchen-accessories,,e-commerce,7,89.99,12.13,50.1,279.23
+5c7c70f0-40c4-4d89-813d-8fda9fce6253,2024-10-01,5b6cdd44-4731-4d95-bd7f-247ddaef14d8,VIP,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,e-commerce,5,24.99,0.94,18.77,31.08
+0ca8994d-c00e-4c54-b9c3-9c95c60c5a36,2024-11-03,99f35c85-0767-4fa4-b609-6f526f63f65d,Regular,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,direct,5,1999.99,4.69,1568.92,2155.34
+6efef66b-7bd2-45d6-aed8-1a0990da4007,2025-04-11,fa47f17b-13d5-453a-9966-0c74ee22db66,VIP,69,Plate,kitchen-accessories,,direct,3,3.99,7.31,3.15,2.53
+6ddb7b51-6cf1-4bac-85cb-e8ea4da27e50,2025-03-14,05ef634b-2733-494b-9ff5-1de19aeeff0b,New,89,Nike Baseball Cleats,mens-shoes,Nike,e-commerce,2,79.99,18.04,58.59,42.8
+53509e41-32b5-4f7b-a279-c655e6633564,2024-11-26,edc37f2f-a454-48ba-adb1-bab9b12cb185,Regular,45,House Showpiece Plant,home-decoration,,e-commerce,1,39.99,7.46,21.72,18.27
+e2b79403-f97b-417c-8d14-1df717624163,2025-01-10,50056aad-6bf0-4fe9-a0f4-5a47b7f9d50a,Regular,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,e-commerce,7,19.99,6.83,13.18,47.68
+a37187e3-ef98-4412-9671-dab7c18ce91f,2025-05-29,1764aee6-b2dd-4e3c-8fda-3ee9ab1b7301,VIP,56,Electric Stove,kitchen-accessories,,e-commerce,7,49.99,14.04,29.61,142.67
+45f70f1b-277a-49a2-a28b-85a40c629321,2024-08-09,2e292864-eb17-4173-a588-cf6e6593523f,New,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,direct,5,1999.99,4.69,1536.36,2318.16
+f55fcc75-3376-4442-8d5c-2a885a501e61,2025-01-07,62f2b693-1ba4-42bc-b114-e77cd4990a88,New,38,Rice,groceries,,e-commerce,9,5.99,9.29,3.96,18.24
+d215387b-e728-4602-9d5f-36814f303b01,2025-06-29,4752796d-cffc-4998-8809-f46c495aa0e2,New,68,Pan,kitchen-accessories,,e-commerce,1,24.99,3.0,13.03,11.96
+7589077e-73cd-4d9d-9361-a84ed16de87e,2025-02-20,80924c1e-7ff4-4c98-bc3c-949727684d07,Regular,5,Red Nail Polish,beauty,Nail Couture,direct,4,8.99,11.44,5.7,13.15
+1a551c5e-f66a-4a56-b67a-cbe0100031cf,2024-07-31,8bed055d-4fce-4f0e-bae4-77e3e5c139eb,New,85,Man Plaid Shirt,mens-shirts,Classic Wear,e-commerce,9,34.99,19.5,19.15,142.59
+a7ece4c9-20e3-4a13-91d7-3f3b48a7d694,2025-04-28,b0baf3b8-2aaf-4154-9342-5239c95f2bf0,New,66,Microwave Oven,kitchen-accessories,,e-commerce,10,89.99,12.13,64.73,252.56
+dd457283-bad1-4535-b3e8-7bfd2a58b32f,2024-07-25,abb67870-115e-44a8-98de-b4e842e5b873,New,25,Green Bell Pepper,groceries,,e-commerce,8,1.29,0.16,0.82,3.79
+8335a10d-5c1d-4680-a13e-6683aff16da4,2025-01-20,d91b9316-044e-4818-830f-0b54ef6cd8c6,Regular,90,Puma Future Rider Trainers,mens-shoes,Puma,e-commerce,6,89.99,4.2,56.99,197.99
+d15e8bfc-f4f6-437a-975f-a3da266c755f,2025-03-12,31e6835c-3aa7-4448-8190-487fbbb4770c,New,54,Citrus Squeezer Yellow,kitchen-accessories,,e-commerce,3,8.99,12.1,4.55,13.31
+f2a4f81e-89ac-48c9-a9ac-918678f1366e,2024-09-23,b210ae39-0487-4156-ac67-02d888fffdd5,VIP,55,Egg Slicer,kitchen-accessories,,e-commerce,7,6.99,14.76,4.31,18.78
+f18f498f-d309-4293-a487-f260a418629f,2025-06-26,af225b95-1790-45e8-acd9-af294dfb5529,New,67,Mug Tree Stand,kitchen-accessories,,direct,1,15.99,9.25,12.43,3.56
+6c6d06a7-8718-4fac-824c-0752b0268b1b,2024-09-11,70ca5095-4cdb-4b73-9d7b-09ee0714e988,New,49,Black Aluminium Cup,kitchen-accessories,,direct,10,5.99,15.65,3.2,27.93
+54933ac7-7083-4dcf-b494-46689660c312,2025-05-25,276ea271-c2d2-4165-b4ba-5bbecde9782d,Regular,20,Cooking Oil,groceries,,direct,10,4.99,9.33,2.88,21.13
+11e3ef81-f014-449c-911b-056a4df9d895,2024-11-20,97ff2a28-2b7d-498d-949e-19727d3d0f48,VIP,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,direct,5,19.99,18.19,13.29,33.52
+90093841-3025-4777-b11d-de4646784dbb,2024-09-20,fc47ca21-8bbd-4a1d-ba3c-2215e679e7e5,VIP,45,House Showpiece Plant,home-decoration,,e-commerce,8,39.99,7.46,28.32,93.32
+0bea5610-9ac8-4af5-ae85-1160791d1f2f,2024-11-14,9f734f0b-fd48-4382-bc26-46af0478e8bd,VIP,62,Ice Cube Tray,kitchen-accessories,,direct,9,5.99,0.63,3.56,21.86
+75f26a18-f189-41a6-90fc-c48442d605a2,2025-03-29,5d89be6b-7180-4be6-bddf-c9d4b5c07c02,New,61,Hand Blender,kitchen-accessories,,direct,3,34.99,17.02,21.6,40.18
+98ac4a31-6900-4894-8f8b-fb095fc60f03,2025-03-14,b12c95b3-9af4-4952-a8e4-ad63d87000f0,New,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,e-commerce,8,19.99,6.83,10.24,77.96
+0fee2963-2d52-4740-8364-f273fb0ca39d,2024-08-30,d36c64d6-4c77-4c62-9fdd-75242e4cc4f7,VIP,16,Apple,groceries,,e-commerce,9,1.99,12.62,1.31,6.1
+ccc403a7-6293-4edf-84d9-93b9dad5860e,2024-11-23,d07ae052-cb02-4146-ac1e-c72786a96417,VIP,92,Sports Sneakers Off White Red,mens-shoes,Off White,e-commerce,5,109.99,0.04,68.91,205.41
+03a70929-6a19-4af1-be76-300a26183197,2025-04-15,4c365c45-def1-454a-9495-cc69a0cc7df4,VIP,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,direct,6,499.99,2.01,250.12,1499.2
+c87e1bec-44c5-46d2-a19b-fcf0d15852a7,2025-05-04,a058a70c-e85d-487d-9fa8-36a37333b773,New,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,6,49.99,1.89,37.46,75.21
+721ab887-3e6e-4ca4-93ad-a6f4f1fabf65,2025-05-24,43c90d2e-bba9-4545-bf0d-fa82afaf7646,VIP,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,direct,4,24.99,0.94,13.1,47.55
+df585e28-c260-4808-ba76-cb3c97e64805,2024-07-21,eb0f9061-5cdd-430a-81f9-17c283f02c97,VIP,48,Bamboo Spatula,kitchen-accessories,,e-commerce,8,7.99,2.84,4.74,26.01
+a96f4b85-aee7-4894-8b12-87201f4d1c9f,2025-06-26,390a744d-dcfa-481c-b996-728da57c3cbb,VIP,64,Knife,kitchen-accessories,,e-commerce,10,14.99,18.86,11.43,35.55
+be0fc3ce-0a6e-466c-a067-72e3f78d09f5,2025-04-07,119afe32-8b22-4a94-8539-63cd744a8b28,New,46,Plant Pot,home-decoration,,e-commerce,8,14.99,6.84,8.45,52.29
+5ca7e77e-cddd-4df4-991c-19cdbbd010c4,2025-03-18,5cc9f393-6768-44ad-8954-cae00d8aab01,New,48,Bamboo Spatula,kitchen-accessories,,e-commerce,5,7.99,2.84,4.03,19.8
+1cb0c9ba-990c-46f4-a4fd-68d4d870c972,2024-08-08,d1c0a807-8ecd-480a-931d-974452c3952a,Regular,39,Soft Drinks,groceries,,direct,7,1.99,17.48,1.29,4.87
+178c6950-3047-4add-b7cb-ff7bdfa37e12,2025-05-30,60cc2f07-e733-4355-9283-60c1fadda856,VIP,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,e-commerce,1,19.99,6.83,11.83,8.16
+e17a456b-d996-4ec5-935b-6053962de996,2024-10-25,94099af9-3c59-47e5-91b6-38f390959fb8,New,32,Milk,groceries,,direct,7,3.49,13.74,2.09,9.81
+32a53d6f-6677-49a1-9fe6-292f6dc1c62d,2024-07-23,678d8974-ea66-4b40-aefb-001e48b13fd3,VIP,60,Grater Black,kitchen-accessories,,direct,4,10.99,3.56,8.47,10.08
+1f6a185a-292d-4e19-be85-d99f705754b4,2024-11-21,7413b917-7b14-4030-a13c-9d2bd8c3b252,Regular,36,Protein Powder,groceries,,direct,9,19.99,7.59,13.49,58.51
+4318687a-b78f-4c8d-a5f1-d8a452453516,2025-01-18,4bdf1ae8-017a-446d-bae5-87a39fb00d52,VIP,76,Wooden Rolling Pin,kitchen-accessories,,e-commerce,5,11.99,9.75,7.92,20.37
+ab25c9f5-697b-4b82-a5da-685e2154dc3f,2024-10-06,ed94d0c7-3300-46d5-be29-468962685cda,Regular,70,Red Tongs,kitchen-accessories,,direct,6,6.99,14.52,4.83,12.99
+678b2f6f-543b-4b06-a503-f1b028855abe,2024-10-31,269e937e-03f6-4351-8a25-c00aa399bf14,New,41,Tissue Paper Box,groceries,,direct,2,2.49,13.28,1.47,2.04
+58dd1dac-8a17-43a0-9749-09de990d2315,2025-01-13,b34c5d03-ed67-469b-a5ae-1364c0a3408e,New,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,2,129.99,16.51,67.31,125.35
+2847c95f-0c63-4efd-b05e-f5b2853feae0,2025-04-13,493e8987-8288-4df6-89ae-a54f7d6aabb6,Regular,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,e-commerce,2,799.99,8.8,508.95,582.08
+5d313435-a741-4a14-bb73-e068deeae492,2024-11-01,486d06e0-6bfd-4694-8800-f7877b5907e4,New,31,Lemon,groceries,,direct,9,0.79,9.7,0.53,2.33
+e14114f7-fc91-417f-baba-45cb0a49d54f,2025-06-20,5fa7eec5-d7d6-479a-9331-6abca3a8f41b,Regular,92,Sports Sneakers Off White Red,mens-shoes,Off White,direct,1,109.99,0.04,71.3,38.69
+00f4a5a7-c518-4fe5-909d-20722b45d772,2024-12-15,c9147988-d8a6-4f6c-b60d-62f2a001e7a8,Regular,57,Fine Mesh Strainer,kitchen-accessories,,direct,2,9.99,3.5,5.46,9.06
+8fe19a94-d049-4a5c-a258-f9ab2f070347,2024-08-08,c81aff9d-fb89-4a7f-9368-c1051349f8b4,New,55,Egg Slicer,kitchen-accessories,,e-commerce,7,6.99,14.76,5.11,13.13
+0d5d5d40-898d-4f3b-bbe2-706222274c0f,2024-12-03,98d6e474-d656-4e86-98ae-8ea923cd6dd0,VIP,63,Kitchen Sieve,kitchen-accessories,,direct,5,7.99,18.91,5.68,11.57
+505e227a-7ddb-4d30-836a-cd05292fb535,2025-07-03,39fe3901-26a5-4037-9b32-725e9ca565bc,New,40,Strawberry,groceries,,e-commerce,10,3.99,1.12,2.85,11.36
+55210490-19b5-4139-a5a2-8695a370d5c1,2025-02-02,5c627e21-b88a-4a50-bf43-29f91279c5ee,VIP,94,Longines Master Collection,mens-watches,Longines,e-commerce,5,1499.99,17.24,761.88,3690.53
+2308d5d5-d52e-4a8f-b377-9ec674a9369b,2024-11-25,de41fabb-f70c-48b5-809d-6b1a86ae5bf1,VIP,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,direct,4,8999.99,8.88,6933.81,8264.74
+097c3852-d407-4949-88e9-d1c471fc6e46,2024-11-18,dcbb22a6-af09-4728-94df-f8b602e9d806,New,87,Men Check Shirt,mens-shirts,Urban Chic,e-commerce,7,27.99,11.38,19.52,59.28
+52d139b3-1fcd-4053-8c38-99bfeebcb82a,2025-03-18,f48b8349-3e05-4997-9bdc-e3c0e5d42ba6,VIP,67,Mug Tree Stand,kitchen-accessories,,e-commerce,6,15.99,9.25,11.31,28.07
+b744773a-b64f-44e2-9800-fbaa0399ccae,2024-08-12,5abcc37f-7575-4de3-ae39-3d042563b7ef,New,11,Annibale Colombo Bed,furniture,Annibale Colombo,direct,5,1899.99,8.57,1412.81,2435.89
+dc83ab32-ab82-4918-9c80-b93f9f1aa928,2024-08-02,59d2cbe3-fec8-4a1e-b436-c6a094d796eb,New,55,Egg Slicer,kitchen-accessories,,direct,8,6.99,14.76,5.06,15.45
+d40a18c3-964c-4e3b-899b-b90b638d406f,2025-02-08,60d709ef-d293-483c-89be-4d25304c1dbb,Regular,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,direct,1,29.99,15.35,21.47,8.52
+c49c53ea-5540-48c9-b145-bf94632a3a56,2024-08-11,73cee506-6d58-4004-a456-39f55e8c34b5,Regular,80,Huawei Matebook X Pro,laptops,Huawei,direct,8,1399.99,9.38,895.24,4037.97
+6397f45c-8bf3-4c46-b66b-3256245cd848,2025-05-05,ef195c19-7c62-4da1-9fb9-0efc2d8c1f06,New,66,Microwave Oven,kitchen-accessories,,direct,3,89.99,12.13,68.66,63.98
+1dd592e2-ab3b-4462-85a0-2f522d10841b,2024-12-10,f6656176-8607-4327-ac43-2b31bdd0c78d,New,32,Milk,groceries,,direct,4,3.49,13.74,2.75,2.97
+d5a965ff-1c87-4356-9ea8-f369a2275d4d,2024-11-30,a3bf7791-39a2-433b-b137-84268260e19a,VIP,100,Apple Airpods,mobile-accessories,Apple,e-commerce,3,129.99,15.54,84.22,137.32
+91ca4157-809d-47af-b78a-d62ae3211409,2025-02-25,bbdea150-5180-48bd-a5da-15f770aeb3b5,New,60,Grater Black,kitchen-accessories,,direct,4,10.99,3.56,8.0,11.98
+84b61523-4656-4877-8c1d-48a34e2b19ad,2025-05-12,d4480563-2273-48d1-9553-1304e4f062b8,Regular,59,Glass,kitchen-accessories,,e-commerce,2,4.99,7.92,3.06,3.85
+19c172ed-85e5-4743-8cf2-a09631ac30fa,2025-04-26,f9709daa-c6eb-424d-8b8d-3db6b5f67151,Regular,98,Rolex Submariner Watch,mens-watches,Rolex,direct,5,13999.99,5.05,7114.28,34428.54
+47e7d549-c8d9-4659-8350-c445b68fff05,2024-08-13,704c1ae6-31c1-40cb-93f3-1c59a47b9910,New,77,Yellow Peeler,kitchen-accessories,,direct,9,5.99,12.48,3.73,20.33
+ac00d30d-6233-4f1c-a32b-c466fe239486,2024-09-17,21777c94-4599-466f-bc10-4685a613e911,VIP,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,4,49.99,1.89,35.92,56.27
+46f7ce54-ff15-4599-a759-7cb5a6627a92,2024-11-07,9deb2d01-22e0-4980-b047-d7d547288a5d,New,80,Huawei Matebook X Pro,laptops,Huawei,direct,10,1399.99,9.38,1112.17,2878.16
+03b62d23-f6fd-4cb7-a4c5-d8fd4f739595,2025-01-28,e9514fd8-7e4f-40ea-978c-cd228b048af1,Regular,71,Silver Pot With Glass Cap,kitchen-accessories,,e-commerce,2,39.99,5.7,27.25,25.48
+65423df2-2860-4548-a5be-e8446c271a28,2025-06-02,db744205-cefd-4c76-a2df-131ead68c288,Regular,1,Essence Mascara Lash Princess,beauty,Essence,direct,1,9.99,10.48,7.35,2.64
+05115ec5-04bd-47d2-b24f-05ee1a1fcd46,2024-09-14,e5b38ce7-c4b8-4fa5-859c-2fd2f8dbdfdd,New,100,Apple Airpods,mobile-accessories,Apple,direct,10,129.99,15.54,69.9,600.94
+8bfa07b6-2fdd-4e13-b2ad-9c6dadc64c8a,2024-11-30,2f40fd20-c81e-4fa3-bd77-c4e0a1136a10,VIP,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,1,49.99,1.89,32.36,17.63
+fcfb9b86-14b6-4e09-9216-e25e7dc67b21,2024-10-06,b343f9e6-5047-4697-a867-d859adb7ee18,VIP,24,Fish Steak,groceries,,direct,5,14.99,4.23,9.22,28.84
+ee4b0538-4340-417b-8d95-20b3c1dc0aec,2025-02-27,ac6758f2-7023-4d2b-9f02-60243dd3beaa,VIP,34,Nescafe Coffee,groceries,,direct,5,7.99,1.59,6.03,9.81
+58b33856-3354-4303-9af8-57960c01d8f9,2025-04-04,15769648-b25a-43eb-a9f4-e58f55ddc6dc,New,30,Kiwi,groceries,,e-commerce,7,2.49,15.22,1.39,7.72
+ea967720-5e96-4ba5-b33a-76087780f494,2024-12-18,80a65ece-142f-4a31-a39c-3bd3bda87107,Regular,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,e-commerce,5,799.99,8.8,413.0,1934.97
+cde0c3d6-3c54-4e6b-8765-76367d5f1a15,2024-12-11,54a6ba15-bdb6-4c11-8625-1479fb2bdac1,Regular,80,Huawei Matebook X Pro,laptops,Huawei,direct,8,1399.99,9.38,991.8,3265.48
+2a6739b7-ffc2-4a11-a7d1-c47499b3d9b2,2024-12-22,fdb41b2e-1180-47f0-9ca6-89241f7aac6f,VIP,100,Apple Airpods,mobile-accessories,Apple,direct,3,129.99,15.54,82.18,143.44
+518002ef-4d9e-4c88-b204-b087edc12d74,2024-10-13,0573f9f6-cf7e-4ad6-8463-e975caa95cb2,New,35,Potatoes,groceries,,direct,3,2.29,5.38,1.61,2.04
+ed5a71c9-b8b2-486b-8761-7a3f39455fbb,2024-09-14,e83eb1af-48b7-444f-826d-78b16d1f3b89,New,97,Rolex Datejust,mens-watches,Rolex,e-commerce,4,10999.99,3.73,6715.88,17136.46
+3eeeb8b4-136e-4d03-89c4-2cec806a465c,2024-11-18,3500dac9-cf66-433d-b926-662a2e1dcc5b,Regular,29,Juice,groceries,,direct,5,3.99,12.06,2.9,5.43
+b69a8a0e-61d4-4b5e-bf3a-b635dc495ac5,2024-08-17,0408c7e6-5b76-41f6-8e3a-d824b0c84f36,VIP,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,direct,6,1799.99,11.14,1011.2,4732.76
+cb718e3e-caa7-4511-8469-6b44b528b5f8,2024-12-12,010cbd45-3a80-4cfc-975f-081c34144ef5,Regular,71,Silver Pot With Glass Cap,kitchen-accessories,,e-commerce,9,39.99,5.7,27.65,111.08
+f7f5e586-3013-49de-a7ed-60670757d8fa,2025-05-14,e07ae89e-abfd-4017-9b31-a53248ed3d20,Regular,37,Red Onions,groceries,,direct,8,1.99,9.9,1.46,4.27
+99fb80fa-735a-4e96-a5a7-4bd468cad246,2025-02-14,b00d6409-d665-4924-a79a-2f5dbcb12272,New,66,Microwave Oven,kitchen-accessories,,e-commerce,2,89.99,12.13,65.22,49.54
+ef8ab203-778f-432f-9260-a2fadc7b2a48,2025-04-28,132af195-54d9-4432-8e3b-14ba3d253750,VIP,66,Microwave Oven,kitchen-accessories,,e-commerce,7,89.99,12.13,71.41,130.06
+7315c80e-cdf6-4c3b-83e7-f3dc24674bb3,2025-02-19,8f096488-4cf8-43c1-9138-ffbd8c66da72,New,60,Grater Black,kitchen-accessories,,e-commerce,5,10.99,3.56,6.24,23.77
+0c6ca61e-80d1-42b3-bc06-9437927064a1,2024-08-30,4d831e3f-1181-4d33-b928-01f0d8e1bc21,VIP,19,Chicken Meat,groceries,,direct,10,9.99,13.7,7.18,28.05
+1d0e6a7b-4218-4796-9391-d1a62311dd8e,2025-01-13,74f425ab-5c80-4385-9ef9-e0beed1ed63c,Regular,75,Tray,kitchen-accessories,,e-commerce,10,16.99,7.48,12.9,40.9
+293c2e4f-e1e3-4a41-9ea2-7685e747bf38,2024-12-28,1262d781-bbdd-44b4-bbe0-78a68ea00c5e,New,40,Strawberry,groceries,,direct,8,3.99,1.12,2.12,14.99
+a565c08b-7d96-4d67-9f14-f1feed859416,2025-04-05,0bc7e648-7d26-458f-a0df-a77e268ca54d,New,96,Rolex Cellini Moonphase,mens-watches,Rolex,direct,2,12999.99,17.52,8773.75,8452.48
+549c2eac-a5c0-4318-a5d2-60ec0c73d16b,2025-05-08,003eb495-2a50-45fa-9eb2-c552110c29f6,Regular,58,Fork,kitchen-accessories,,direct,10,3.99,8.07,2.56,14.3
+6a3f32d0-6cb6-4eb2-bea9-29dd10385918,2025-07-04,48dc5e87-51d8-4c76-b883-1734f028ee48,VIP,24,Fish Steak,groceries,,e-commerce,4,14.99,4.23,9.68,21.24
+bdf85c21-7259-4fca-ae8e-fe1b00c73ef2,2025-03-23,0600d3eb-11e8-464f-9497-4a13690da4ab,New,22,Dog Food,groceries,,direct,7,10.99,10.27,8.74,15.72
+7b09f7f0-2612-4a58-85b6-e5ce6d06b086,2025-07-02,df912d5a-5338-4be5-bfb7-ebfb15d6c129,Regular,17,Beef Steak,groceries,,e-commerce,2,12.99,9.61,7.73,10.51
+4c52d6f5-65e4-4c99-b64c-617a0b0500fa,2024-12-19,681e0139-e00d-4c10-9112-b366f3ba3ce2,New,16,Apple,groceries,,direct,8,1.99,12.62,1.51,3.83
+19dac559-cda0-405b-ab60-cf80dd6d6a7a,2024-10-15,47a90d1f-3e7c-4851-a1c4-b32be0409abc,New,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,direct,10,1799.99,11.14,1228.56,5714.27
+590b1241-32ea-4ef5-abbc-3fda584ea353,2024-10-09,9a9fd87c-ea28-48d7-a9a4-6b4af1598b8b,VIP,24,Fish Steak,groceries,,e-commerce,6,14.99,4.23,9.5,32.92
+5b47a19a-0687-4e52-8710-467844d55366,2024-11-04,aeab9984-a1b0-44d2-911a-8af769d8095c,Regular,53,Chopping Board,kitchen-accessories,,direct,8,12.99,8.03,9.37,28.95
+28036b4f-9727-4a85-8b9d-620654730737,2024-08-29,ffb5c08c-2201-452a-8ae0-b425f69f0fb0,VIP,16,Apple,groceries,,e-commerce,10,1.99,12.62,1.39,5.96
+42a048e9-361d-4650-8d9d-b497535eea9e,2024-08-07,b71f3aa9-64f2-4fa5-b455-30089cc5ad3a,Regular,1,Essence Mascara Lash Princess,beauty,Essence,e-commerce,6,9.99,10.48,5.85,24.82
+0bff9914-3672-4c82-9aa3-3d21cef52430,2025-01-19,2955633f-24b5-4c3e-95bb-c96baae6a131,VIP,60,Grater Black,kitchen-accessories,,direct,7,10.99,3.56,6.63,30.51
+2108f1cd-7581-498e-bd8d-e7fc274977f4,2025-01-20,4563adb8-eebd-41c1-b14e-0af21a3d3381,New,55,Egg Slicer,kitchen-accessories,,direct,3,6.99,14.76,3.71,9.83
+889df5e1-ab39-43ed-9215-b29c941c37cf,2025-05-18,622aa357-3133-42ca-9f4d-1e320e7190d0,New,53,Chopping Board,kitchen-accessories,,direct,5,12.99,8.03,9.73,16.29
+d93edc93-e478-4227-a0a0-085e93d760d0,2025-02-08,d35d1eba-c729-4509-afd5-f8c3b73707eb,VIP,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,1,34.99,19.5,22.08,12.91
+4e334238-16a3-4c20-87b2-98c869148986,2024-09-13,46c3bbd5-d2fb-4a7f-9793-f190194fe2e5,VIP,42,Water,groceries,,e-commerce,9,0.99,14.92,0.52,4.26
+96007ed2-781a-424c-9ea8-261177bfbf89,2024-11-30,52bb42fe-cb79-431d-94e7-1c232a3fa7e0,New,91,Sports Sneakers Off White & Red,mens-shoes,Off White,e-commerce,6,119.99,4.97,91.58,170.44
+b3be4fda-6aef-4922-ab12-62de00f26a94,2025-06-12,2910d0fb-b5c2-48f2-817f-db4c225f093c,Regular,3,Powder Canister,beauty,Velvet Touch,direct,5,14.99,9.84,11.76,16.15
+255f84ad-3822-4e88-b494-f99e681a7be3,2025-04-29,e31cda56-981e-423f-abba-85f77150101a,VIP,8,Dior J'adore,fragrances,Dior,direct,1,89.99,14.72,68.57,21.42
+a1c63654-a35c-4205-81cf-2a59300e2070,2024-11-23,340bf0b1-53bb-4e30-a31d-1e412c0dd340,VIP,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,e-commerce,9,24.99,0.94,12.86,109.17
+2076027b-2556-413c-914a-c6d8f4d8d646,2024-08-26,42b18ffa-f6dc-46d8-a273-b4a68c53b49b,Regular,64,Knife,kitchen-accessories,,direct,1,14.99,18.86,7.93,7.06
+846894c4-acd6-4cd3-8780-11fa2a73edd6,2024-12-23,b8669e89-2e94-4a24-bf2e-dc140885c9fe,VIP,67,Mug Tree Stand,kitchen-accessories,,e-commerce,7,15.99,9.25,10.6,37.74
+667775a4-352c-4de3-a2f9-6382bc6e7ee5,2025-07-04,fe5721d3-ff16-48e7-9057-47fd55502dd2,VIP,29,Juice,groceries,,e-commerce,9,3.99,12.06,2.98,9.13
+548a0e0d-5a3d-411b-8912-06db38aa0c62,2024-08-09,75660377-10fb-4408-9712-ce183761ee64,New,48,Bamboo Spatula,kitchen-accessories,,direct,3,7.99,2.84,6.18,5.42
+6fbd1482-702e-4491-8c5a-e18f8fd2fc4a,2024-10-12,cf5112c2-587e-4c2d-ac2f-11821536e416,New,23,Eggs,groceries,,direct,4,2.99,11.05,2.14,3.39
+3cd0517f-6a2e-4147-bbe8-fbf9bea34e59,2025-04-18,42d059e3-33c8-4e4d-8884-b5de9acbfe58,Regular,73,Spice Rack,kitchen-accessories,,e-commerce,10,19.99,12.09,15.72,42.72
+ab0ff071-a440-4dac-8589-cd90e56a29f8,2025-02-19,0d4ea08f-68e7-42b7-b3c1-b7921a569d3a,VIP,49,Black Aluminium Cup,kitchen-accessories,,e-commerce,1,5.99,15.65,3.71,2.28
+b0e8920c-46fa-482e-a007-eceb36dfad76,2024-07-23,60399be8-d764-4b61-992a-2e29e826dcf9,Regular,13,Bedside Table African Cherry,furniture,Furniture Co.,direct,9,299.99,19.09,156.49,1291.51
+28364213-626c-4d7c-8e28-507b4b23216d,2025-04-19,98508eb0-2393-4862-b78a-110278bedf0f,Regular,98,Rolex Submariner Watch,mens-watches,Rolex,direct,8,13999.99,5.05,11098.51,23211.88
+db74869a-6d99-4362-b350-965497587af5,2024-08-19,33418699-fde5-4bfa-b339-4e86d94a1c28,Regular,8,Dior J'adore,fragrances,Dior,direct,4,89.99,14.72,54.91,140.33
+c61f280b-62b0-4e1a-83d8-7abb6584f00d,2024-07-09,241f76ca-a2c2-4f5e-9492-4f9a4f90a3fd,New,97,Rolex Datejust,mens-watches,Rolex,e-commerce,3,10999.99,3.73,7650.2,10049.37
+bde372cd-4b08-41a4-99dd-b8d92b38fafe,2025-05-16,0cce6af0-c0b5-449a-9070-42ab03ad125b,VIP,58,Fork,kitchen-accessories,,e-commerce,4,3.99,8.07,2.18,7.25
+a5ec42a5-19dc-49a7-baaa-de333703c444,2025-05-28,c8058f03-24fd-4784-aa8d-e71c2df8cc54,Regular,54,Citrus Squeezer Yellow,kitchen-accessories,,e-commerce,1,8.99,12.1,4.76,4.23
+ad588e1c-9d0d-44c8-85ac-1d9a63b390dd,2025-05-06,45e8e5ab-69c4-40b7-a431-116c4de7d4d9,Regular,4,Red Lipstick,beauty,Chic Cosmetics,direct,9,12.99,12.16,8.42,41.11
+2f67d92c-7c6a-4c7c-9e5a-e3b54d1ac4ee,2024-11-06,e4eef070-24a5-4c17-98d6-6b229055368d,New,35,Potatoes,groceries,,e-commerce,4,2.29,5.38,1.31,3.93
+92997655-74b1-45ba-ab79-b25bd2602798,2024-10-12,90a935e6-2efc-497f-9158-4287ce601d38,New,61,Hand Blender,kitchen-accessories,,e-commerce,6,34.99,17.02,22.26,76.35
+387b961c-dd70-40c4-93f7-2ee4871382ab,2024-11-14,aea89d43-a347-4b96-9623-a0c903c2dfa3,Regular,96,Rolex Cellini Moonphase,mens-watches,Rolex,e-commerce,2,12999.99,17.52,9033.98,7932.02
+99149064-01c3-4093-a74e-ab9c1f6867c3,2025-03-07,18fa62a3-9e8c-4188-a3cd-7b003f9d049a,VIP,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,7,34.99,19.5,24.96,70.18
+0ac19508-49a9-4772-b069-6769c1370e7f,2025-04-29,9722f8b5-7ea6-4d90-b522-cb4b707fb77e,Regular,72,Slotted Turner,kitchen-accessories,,e-commerce,7,8.99,13.35,6.75,15.68
+24e3e251-8466-41d6-9972-fde5417203ae,2024-11-10,ade66e76-3a80-4b74-a8bc-3f41e7ac3d4f,VIP,46,Plant Pot,home-decoration,,e-commerce,10,14.99,6.84,9.48,55.12
+8cad491a-a388-4f49-aaa1-8624f801f56c,2025-03-13,a1d011ab-f822-4eff-aab9-148b87e2caaf,New,72,Slotted Turner,kitchen-accessories,,e-commerce,6,8.99,13.35,5.62,20.23
+1105de69-4118-4294-bc15-12ee4074b583,2025-06-22,7e8b99b2-c072-461e-a047-ea0acf7845c1,New,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,direct,7,89.99,5.99,57.64,226.42
+4aa18416-b9f1-461b-b1ef-b368ac585471,2025-01-14,b760077c-b02a-4c39-b75e-527fb89e8765,New,60,Grater Black,kitchen-accessories,,direct,4,10.99,3.56,6.4,18.35
+43a22f44-8013-4fd4-87dd-7a8795d9cf57,2024-08-04,bc26e8d2-65fb-4803-96b7-f34bb65b5b6c,Regular,22,Dog Food,groceries,,e-commerce,6,10.99,10.27,6.88,24.67
+0da1c1da-c783-4870-939b-3590dad06561,2024-09-12,7961cdc0-d705-4f7e-8ed6-19ebaaad5250,New,44,Family Tree Photo Frame,home-decoration,,e-commerce,6,29.99,14.87,23.43,39.37
+06f93f1d-ce28-4adc-a741-9ccfaf096427,2024-07-29,56b29941-0a97-459a-91d5-f273db3ab519,VIP,36,Protein Powder,groceries,,e-commerce,2,19.99,7.59,12.16,15.66
+cb52b50a-036b-426d-92b8-7a1a0086cad3,2025-02-21,63e7f5b0-3ace-4c3c-a505-8bf1d68975c8,Regular,3,Powder Canister,beauty,Velvet Touch,direct,5,14.99,9.84,7.89,35.49
+7ef05bf3-76c9-4f54-b63b-01c4ae0c06aa,2024-09-20,d446f03d-f7a6-463c-ad10-d3910699e85d,VIP,36,Protein Powder,groceries,,direct,3,19.99,7.59,14.29,17.11
+eb0f24fb-d781-40f4-a1ea-05431a726472,2025-02-08,f0ac99cb-0787-4873-9709-7a8aeb76a0a7,New,1,Essence Mascara Lash Princess,beauty,Essence,e-commerce,5,9.99,10.48,5.62,21.84
+aff3fef9-148f-48b9-91b5-375ede22a6f6,2024-10-27,84a8f45e-b2e9-41aa-9a59-1c9628230c77,Regular,61,Hand Blender,kitchen-accessories,,direct,10,34.99,17.02,27.29,76.96
+c7aaf99f-1e33-4218-a9c7-93de231046c8,2024-08-12,8b7d4930-b94c-459e-aa8e-932232c70aab,Regular,64,Knife,kitchen-accessories,,direct,5,14.99,18.86,7.66,36.64
+e3ca1dac-bdf4-4ad4-b98d-ff6d53373bc3,2025-01-06,91af6b04-184f-4e52-a1b4-a9a3ca4b13cf,Regular,20,Cooking Oil,groceries,,e-commerce,7,4.99,9.33,2.54,17.17
+7e99ccd6-6013-4355-aa67-327f2386133d,2025-03-12,6d51354e-8867-454d-b102-c2a622cbc6c7,VIP,72,Slotted Turner,kitchen-accessories,,direct,4,8.99,13.35,6.37,10.48
+2b378e36-f4a7-4a26-80dd-617f25af2dd5,2025-02-25,bcd2e244-a629-4d94-b8b0-3c2b4c00448b,New,96,Rolex Cellini Moonphase,mens-watches,Rolex,direct,5,12999.99,17.52,9915.09,15424.48
+0f26ce29-c56d-4fc1-9bfd-14f062df7c83,2025-06-15,733bc62f-c044-4137-9965-bb1818457adb,Regular,62,Ice Cube Tray,kitchen-accessories,,direct,9,5.99,0.63,3.04,26.51
+05ec2ceb-fed0-4be6-9756-560a06c6f3a3,2024-09-26,66504328-81b3-466a-aeb3-86c5ddb6b234,New,55,Egg Slicer,kitchen-accessories,,e-commerce,7,6.99,14.76,4.34,18.56
+d646d314-ac78-44dd-8c62-76533de9b27c,2024-09-03,86b713e9-bb61-4b28-a8ec-2d1e5b4c5350,New,66,Microwave Oven,kitchen-accessories,,e-commerce,8,89.99,12.13,48.27,333.75
+a4720b43-4b10-425c-88cb-9d190d998432,2025-05-31,f65e2a74-51a8-4218-b808-4441d2ed9ade,New,61,Hand Blender,kitchen-accessories,,e-commerce,9,34.99,17.02,21.01,125.82
+6b9047a2-7b32-4bc8-ae89-62720cb57524,2025-06-16,d292e454-9265-4edb-a918-888ebf26621a,Regular,7,Chanel Coco Noir Eau De,fragrances,Chanel,direct,9,129.99,16.51,76.43,482.08
+7ed1a537-042c-4f25-a252-f7d100e05225,2024-10-16,df259f0d-83bb-4e1a-a03c-f96b8efcc96c,VIP,6,Calvin Klein CK One,fragrances,Calvin Klein,direct,5,49.99,1.89,33.16,84.16
+0c3f67e4-f9e4-4d27-beba-e8ceed5ab144,2025-07-01,aa181ecd-3828-41ed-a2fa-fb1b34c99ff5,VIP,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,direct,6,149.99,4.12,77.47,435.12
+c592cd09-06a8-47e7-83a3-4f72a7192084,2025-05-10,626fc6b6-b9b0-41ce-bfa2-1520031567e7,New,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,direct,1,1999.99,4.69,1475.03,524.96
+09c5c3af-32ee-4b04-b7ff-27e3cc2dcbc1,2024-10-03,06d477d8-9656-4c15-9830-ba30b187d6a0,Regular,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,9,129.99,16.51,99.88,271.0
+8e82372c-3bc6-4df6-b58a-e4eb052e7b79,2025-01-10,3e08ddd1-1150-455b-b734-80ffe691b91d,VIP,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,e-commerce,5,24.99,0.94,16.26,43.67
+e720833f-5511-427a-bfbf-54de977797e2,2024-11-02,f83ae635-abf2-47d8-9ef7-a3954fc0b0c4,VIP,60,Grater Black,kitchen-accessories,,e-commerce,8,10.99,3.56,5.59,43.16
+98bd2073-4b9f-4324-a762-380a3fb00f96,2024-10-14,d38bb5f0-796e-41f1-9f3b-d8d73e177bda,VIP,97,Rolex Datejust,mens-watches,Rolex,direct,5,10999.99,3.73,6991.72,20041.37
+1fde4d6b-a88b-4dd8-9f35-2e8ad8dc4afe,2024-08-15,aa09dea8-f9f0-49c1-b361-0db6ff438da0,New,72,Slotted Turner,kitchen-accessories,,e-commerce,4,8.99,13.35,4.79,16.8
+00ee506e-8fb4-466d-86a7-5bd71277d5c0,2024-11-08,c366e408-ca4c-48fb-a032-bea5180de1e5,VIP,33,Mulberry,groceries,,direct,9,4.99,12.87,3.51,13.28
+f4eb539d-8256-430d-a894-2777c37c04f4,2024-12-06,fb99225b-9d73-47b1-a244-392cb923d100,New,90,Puma Future Rider Trainers,mens-shoes,Puma,direct,9,89.99,4.2,45.91,396.76
+c9cd1f5c-22c1-403d-92f0-ebeb9f8b088d,2024-10-10,942bb03e-3837-4b07-becb-9b4c2d769a84,VIP,36,Protein Powder,groceries,,e-commerce,2,19.99,7.59,12.82,14.34
+cbef6b98-2d1d-425b-935a-2e70d33dc3c8,2024-08-11,b75ce44c-c77f-41bd-8145-6ead5c58ecd8,New,47,Table Lamp,home-decoration,,e-commerce,5,49.99,7.09,34.71,76.4
+5f51fb93-b225-4ee6-bab1-74f5a8f1c05d,2025-06-23,ae840d45-ea1c-4479-9582-1d3a37bdebca,Regular,97,Rolex Datejust,mens-watches,Rolex,direct,10,10999.99,3.73,5938.94,50610.51
+8d5cc8ce-fb0d-4f19-86bf-af79f2b8b2ee,2024-10-21,917f259e-b269-42fa-be36-7b43a9fc5692,New,99,Amazon Echo Plus,mobile-accessories,Amazon,direct,2,99.99,12.07,72.98,54.01
+b64fb34a-e262-4d8c-b0fb-25671612557a,2024-11-10,4ac84a4e-cd46-4bc5-bf69-4a811e03f86c,New,58,Fork,kitchen-accessories,,e-commerce,7,3.99,8.07,2.49,10.52
+845fdfe0-5435-42e1-bcee-1b97c95f3035,2024-08-26,1652cc2b-3e25-420f-9fae-ae4b34145c6a,Regular,66,Microwave Oven,kitchen-accessories,,direct,4,89.99,12.13,48.7,165.14
+ef6d1c8f-ed41-4dbe-8938-0c51a36b255d,2025-06-24,0aa4e60c-0744-4560-b0cd-4eed9e522a7d,VIP,24,Fish Steak,groceries,,e-commerce,9,14.99,4.23,11.3,33.18
+ac552380-7b2a-44ff-9eb7-89b7e8b1cf45,2024-07-28,c586113e-7262-4455-9890-a7d0cbe0507b,New,73,Spice Rack,kitchen-accessories,,e-commerce,7,19.99,12.09,10.03,69.73
+183ff886-5b3e-41bb-978c-85af1e1e8918,2024-11-26,2f9f03e5-c39a-4312-b4b2-a090edd0e5ab,New,74,Spoon,kitchen-accessories,,e-commerce,7,4.99,1.53,3.62,9.57
+af26eb16-5516-4b8a-804f-b25fc1f73b68,2025-04-11,207aa47f-8c13-4d54-becf-66ca8cf772a3,Regular,71,Silver Pot With Glass Cap,kitchen-accessories,,direct,3,39.99,5.7,23.18,50.43
+375b5b79-3c1c-4824-96ad-48debb642a92,2025-03-07,c69fc401-27f6-4a0c-ad40-00f3ddc41768,Regular,21,Cucumber,groceries,,e-commerce,9,1.49,0.16,1.15,3.1
+801adcae-9d99-4893-92c9-5ce9569ca0f3,2024-07-29,e31f48f0-eb1d-4088-8012-29ad32d4d178,Regular,48,Bamboo Spatula,kitchen-accessories,,direct,6,7.99,2.84,4.59,20.41
+5f6e9102-456b-4045-8487-f4d8d3eced69,2024-10-19,4e89cb88-5e6e-4057-a4ca-363900640fad,Regular,71,Silver Pot With Glass Cap,kitchen-accessories,,direct,1,39.99,5.7,29.03,10.96
+d8835312-0b5e-4566-8a7f-921e7666c249,2025-02-05,a4928484-5680-4184-b361-cc8200f396ff,New,77,Yellow Peeler,kitchen-accessories,,direct,10,5.99,12.48,3.78,22.14
+f9ffb43b-c07e-455a-8061-fceea4a7ba74,2024-08-19,a2f7d570-e471-41aa-8080-e53a77941cfb,New,48,Bamboo Spatula,kitchen-accessories,,direct,6,7.99,2.84,4.96,18.19
+9cd7c1d4-ebb3-40ff-9b62-fb3886fffd7f,2025-03-05,2d6f5d41-0180-4b83-8f97-45d07ed25546,VIP,18,Cat Food,groceries,,e-commerce,5,8.99,9.58,6.62,11.85
+b4aa3e22-269c-49cc-8714-67503a54e645,2024-09-02,35fd7cf3-a248-40f3-aeee-255fbb6fde88,New,63,Kitchen Sieve,kitchen-accessories,,e-commerce,4,7.99,18.91,5.34,10.62
+06b81e25-49c1-49e5-9f77-53ef792a1715,2025-02-25,9200fcba-3cce-4dfb-9b87-eda6e15f292d,Regular,97,Rolex Datejust,mens-watches,Rolex,direct,5,10999.99,3.73,6351.96,23240.15
+e1675ac8-4072-4cf6-8d2c-765024c27064,2024-12-06,751d5641-6468-43ac-9868-ed4b986be48d,New,29,Juice,groceries,,e-commerce,1,3.99,12.06,2.11,1.88
+23247256-5442-4d3b-bdce-25f64dbf9a7b,2024-08-04,6653117e-0b9f-4a53-9f7e-2bb4b7f8fc3c,Regular,38,Rice,groceries,,e-commerce,10,5.99,9.29,3.1,28.92
+424ec2d6-0852-490c-b3cb-d316f2c63eb4,2024-08-12,38d976db-3bc7-462f-b275-4cc301cc0851,New,48,Bamboo Spatula,kitchen-accessories,,e-commerce,9,7.99,2.84,4.82,28.51
+4aaba78f-0494-4f06-8170-f762393686b7,2025-02-13,2970460e-5826-495d-8202-bf33a83bbbcd,VIP,30,Kiwi,groceries,,direct,3,2.49,15.22,1.4,3.26
+2ee93852-e998-471f-a7b6-bcb32a958592,2025-06-16,4e307f18-34c8-410b-bb84-1f9dde73c930,Regular,25,Green Bell Pepper,groceries,,e-commerce,7,1.29,0.16,0.93,2.5
+00156de1-d122-4c1d-8557-00e4e0e289ab,2025-05-26,41aa380c-4ca0-4e9b-962a-042cb38aa439,New,29,Juice,groceries,,direct,7,3.99,12.06,2.86,7.88
+0f54acd8-e8a8-4bab-8485-924f03de1f35,2025-05-05,31dd6109-ed6d-4897-a5de-7169e2cba4b9,VIP,1,Essence Mascara Lash Princess,beauty,Essence,direct,10,9.99,10.48,6.5,34.91
+53847574-a2c0-40fa-b5a0-793947516ca7,2024-07-07,41756a9e-2b74-43a9-b8f4-229654dfcce8,VIP,24,Fish Steak,groceries,,e-commerce,3,14.99,4.23,9.93,15.18
+7694db5f-dba3-4baa-b530-d7e1b3f26791,2024-08-09,3c4120eb-3396-43af-909a-899d4ffb66b9,New,64,Knife,kitchen-accessories,,direct,4,14.99,18.86,11.31,14.73
+cd18db8c-3877-4d94-b155-31b1f6526ab4,2025-03-16,ed9fad9d-bc74-4a40-992f-6dd7b7c45443,Regular,50,Black Whisk,kitchen-accessories,,e-commerce,7,9.99,10.24,6.82,22.16
+c4f4411c-aecc-4d9c-8960-3bf2a7ee2090,2024-12-03,37a7b6c9-39af-479c-a764-8aae30f446e5,VIP,4,Red Lipstick,beauty,Chic Cosmetics,direct,6,12.99,12.16,9.22,22.63
+82bfb2ce-bdac-4a43-aec9-eaed92281bb3,2024-12-14,0502d336-bf65-4d94-944b-aca1192f1b81,New,87,Men Check Shirt,mens-shirts,Urban Chic,e-commerce,10,27.99,11.38,16.98,110.07
+f7b53f06-8fed-4a70-958e-a9ee75062196,2024-12-15,39e39e31-5e40-42bb-8f7f-6a430c103d8d,New,82,New DELL XPS 13 9300 Laptop,laptops,Dell,e-commerce,4,1499.99,11.89,911.68,2353.25
+9405379f-d555-4b81-9048-9f6f01558c05,2024-10-15,cb2e1b59-3eb1-4d48-b45e-ec692a329121,Regular,81,Lenovo Yoga 920,laptops,Lenovo,e-commerce,10,1099.99,6.55,694.93,4050.65
+14fa84e4-065e-4d3c-a1da-4b61020d7a57,2024-11-27,89d6ccbd-6624-4487-9b22-7fc0abb184d4,VIP,87,Men Check Shirt,mens-shirts,Urban Chic,direct,6,27.99,11.38,21.42,39.4
+60671bc7-8897-456c-9fec-8ab0b6801445,2025-02-19,ffa5b990-153d-4bd4-989b-5aab23d161e0,New,92,Sports Sneakers Off White Red,mens-shoes,Off White,e-commerce,10,109.99,0.04,64.04,459.48
+4b831b70-2019-460f-8dc8-63252b515a4b,2025-03-29,a5bfc83e-30e7-46ec-b403-b33a86e91329,Regular,82,New DELL XPS 13 9300 Laptop,laptops,Dell,e-commerce,1,1499.99,11.89,861.57,638.42
+67b976b6-90cf-45b5-a577-9eced11a5f4b,2025-03-12,7bad5cb9-8d5f-40ed-be4e-b9f347b2a2c2,New,49,Black Aluminium Cup,kitchen-accessories,,e-commerce,5,5.99,15.65,3.9,10.44
+d7f193f3-6a84-4038-a3d6-9e805cee953b,2025-06-25,0fa8c85c-de8f-420c-bf21-fbe893f09617,New,75,Tray,kitchen-accessories,,e-commerce,1,16.99,7.48,13.23,3.76
+7b9c1c4f-9d29-4fed-b0e3-341299ef3aba,2025-02-15,51c7957d-659b-4ff4-b289-975cf9f39040,Regular,49,Black Aluminium Cup,kitchen-accessories,,e-commerce,7,5.99,15.65,4.48,10.57
+ab07878f-b85c-4252-a8a6-39938d65b0f3,2024-08-11,4fbda1ee-d023-44fa-8e2b-128de4cb325a,VIP,54,Citrus Squeezer Yellow,kitchen-accessories,,direct,1,8.99,12.1,6.2,2.79
+78e1db7d-31a3-4199-a297-4178556adddc,2025-05-12,49ba375c-3a78-43de-8cac-f67f3a03532a,Regular,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,e-commerce,2,149.99,4.12,102.88,94.21
+daff1171-e7cf-4243-91a3-13977fe02b6d,2025-03-10,c9c449dd-7487-45a8-b0be-1c41f81b9d8f,New,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,direct,5,24.99,0.94,18.1,34.46
+27155dc5-f99c-46e1-96d7-bf30c7a8b5bc,2025-04-24,faf12dbd-6f91-4675-8063-0a9a22099b2d,Regular,90,Puma Future Rider Trainers,mens-shoes,Puma,e-commerce,3,89.99,4.2,68.68,63.93
+e8b1043d-f9a4-44c8-909f-ad94ece73952,2025-01-26,43fbf9b8-d6fc-4bec-8578-174501fae986,VIP,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,direct,3,1999.99,4.69,1513.65,1459.02
+146a33c3-5bde-419e-b9cb-98ebe2523c70,2025-01-11,8540bd3f-9efd-4cd7-ba49-14c8105a6ee2,Regular,85,Man Plaid Shirt,mens-shirts,Classic Wear,direct,5,34.99,19.5,25.44,47.74
+2cc42dc1-f4cd-4906-9b57-0f7f5851fdf2,2024-12-07,9ac04a2a-d325-4e87-afe5-308a396d11da,New,38,Rice,groceries,,e-commerce,7,5.99,9.29,3.65,16.41
+09f3f3dd-1bd7-424e-bb4a-b3d6d975b11f,2025-05-06,fbb852aa-b4f6-4d01-90de-cc3fb8221734,Regular,32,Milk,groceries,,e-commerce,4,3.49,13.74,1.76,6.92
+56d01459-4a38-4f91-98de-d179dd3ebcf9,2025-06-20,1adbd06d-6def-46b7-a478-dc178d72771e,VIP,42,Water,groceries,,e-commerce,8,0.99,14.92,0.58,3.28
+11c7737e-0427-4e3f-804f-962b749b157d,2025-06-26,23329fde-d451-447b-9f1a-1b3997cade61,New,4,Red Lipstick,beauty,Chic Cosmetics,direct,3,12.99,12.16,7.33,16.99
+ec4fec34-7295-4cf5-9f92-4bd422524156,2024-10-06,8b895fb9-d11e-4d9f-9f90-f56cadd97ac4,New,7,Chanel Coco Noir Eau De,fragrances,Chanel,direct,5,129.99,16.51,94.07,179.62
+d1cfa246-3128-4940-b2a2-c0e9654169a5,2025-02-08,d097cc19-b2c9-47d8-bc9e-39840f844257,Regular,60,Grater Black,kitchen-accessories,,direct,9,10.99,3.56,7.2,34.09
+2eaf55f4-e91f-468e-a0b7-ecb4c87b181e,2025-04-21,9414ece6-f54a-4f7f-9aca-0e59dfb7151e,Regular,41,Tissue Paper Box,groceries,,direct,2,2.49,13.28,1.8,1.38
+6a2b2ce4-4930-49bc-b594-086c82bc4f09,2025-06-09,787205fd-c4f5-4bce-87ce-4d1ab1243b8a,New,7,Chanel Coco Noir Eau De,fragrances,Chanel,direct,8,129.99,16.51,70.3,477.55
+2d61616e-2cb7-4085-90fa-0c1a6426a8af,2025-04-26,1f9293f6-30da-46ff-9442-50bbb5523b5f,Regular,52,Carbon Steel Wok,kitchen-accessories,,e-commerce,8,29.99,6.53,18.83,89.26
+92094dda-f97e-4c0c-ab13-6378b3fccd6f,2024-09-07,ff154ff9-02e0-4279-b6ca-e9e5d221bf49,VIP,48,Bamboo Spatula,kitchen-accessories,,e-commerce,2,7.99,2.84,4.1,7.77
+45e6e2a1-7057-447f-9342-6ff85c4f1de7,2025-05-20,4fd34d48-98c9-4dd8-b1e9-2f26e2ac7b30,VIP,97,Rolex Datejust,mens-watches,Rolex,direct,6,10999.99,3.73,6393.47,27639.11
+add70121-a3e3-486d-918b-38ed7f5c5e11,2025-02-09,7f493f99-185a-4341-aaa2-9224ea39c032,Regular,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,direct,10,1999.99,4.69,1489.7,5102.93
+c9bb6ab8-c19e-48a0-9882-cf240c24d392,2025-06-14,4ae826b6-ff1d-49d2-9b84-d08bf6559412,Regular,30,Kiwi,groceries,,e-commerce,10,2.49,15.22,1.58,9.06
+f17368d3-0f9c-47c4-a298-cd6166b7278b,2025-04-12,c3ff25c2-f72d-4253-93d9-e290c461325f,VIP,97,Rolex Datejust,mens-watches,Rolex,direct,9,10999.99,3.73,5975.53,45220.11
+00366e1e-48b3-49a7-a3f9-d798346e7c97,2024-12-30,88ec098d-bcde-4aec-9dd6-30d572e750e6,Regular,33,Mulberry,groceries,,e-commerce,6,4.99,12.87,2.96,12.16
+d5ed5cc5-3354-4c3d-ad9a-5b014d767734,2025-06-09,153e6dad-8378-4e02-b648-18bfacdc5673,VIP,43,Decoration Swing,home-decoration,,direct,2,59.99,10.41,40.05,39.88
+a2585d71-7769-4174-a069-7ac9b39dfce8,2024-09-29,117ea929-6111-44ad-a96f-25a6605c6f44,Regular,7,Chanel Coco Noir Eau De,fragrances,Chanel,e-commerce,8,129.99,16.51,96.92,264.6
+37f85f1e-78d5-4df4-9eb2-68df51cc2044,2025-02-23,cfad2211-b81c-4c50-897f-251776983042,New,32,Milk,groceries,,e-commerce,7,3.49,13.74,2.43,7.44
+4a8e1990-2ce0-44d4-94d2-18ef6ceaa0ed,2025-01-21,b4547510-17b0-4c8a-8af6-d27bdd727f9d,VIP,98,Rolex Submariner Watch,mens-watches,Rolex,direct,7,13999.99,5.05,7046.07,48677.41
+2fea8352-d2bc-480d-8a30-2fb205e917dd,2024-10-04,c3dfe98a-c31b-492f-81e5-b22aebdf0909,Regular,53,Chopping Board,kitchen-accessories,,direct,3,12.99,8.03,7.61,16.14
+fcaf0a63-1bf7-4aca-8b34-bc82f2e841fc,2024-11-11,67f803d5-bc21-4547-9ef7-3cb8f6941cc2,VIP,69,Plate,kitchen-accessories,,direct,4,3.99,7.31,2.28,6.85
+9a350177-9dea-413d-8cfd-428c5770c447,2024-11-28,de6c06a4-5723-4be5-8710-95a54eb1ff0b,New,60,Grater Black,kitchen-accessories,,direct,2,10.99,3.56,5.68,10.62
+c29f046d-0a51-447a-9220-7d7f86234293,2024-10-31,ce2aae48-15cc-41a3-afa1-7cf6f3ad2120,VIP,31,Lemon,groceries,,direct,7,0.79,9.7,0.59,1.41
+c24a99bd-7dbe-4037-b378-021cb2ce190f,2024-10-25,18c61596-3655-41ea-a52c-00af9da5b0fe,Regular,20,Cooking Oil,groceries,,e-commerce,5,4.99,9.33,3.03,9.79
+575a2ca9-3de6-4954-9375-0f8a5aa3f56d,2024-12-30,796eb19c-0768-41fd-bdd9-10fd0db85b01,New,8,Dior J'adore,fragrances,Dior,direct,9,89.99,14.72,47.22,384.93
+bd72501b-b816-47b1-83a9-7c1d278618d3,2024-11-02,c14ae274-3434-456f-b42f-bdc140d0f210,Regular,82,New DELL XPS 13 9300 Laptop,laptops,Dell,direct,5,1499.99,11.89,900.14,2999.24
+cc21090a-f599-4356-a20e-59ffc047fd47,2025-01-10,03abe87a-eb1e-4dd8-8026-7fde71b4938c,VIP,43,Decoration Swing,home-decoration,,e-commerce,9,59.99,10.41,32.21,250.03
+4016d8fd-3be7-47f9-9dd8-9f481e31b5d8,2025-02-28,7706bbd0-6fd2-4793-a882-c1082c3f04eb,VIP,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,e-commerce,6,89.99,5.99,71.09,113.37
+fd0b1d77-74af-4fbe-b73f-e7c22525d3f7,2024-12-17,19b3fd3d-6b95-449c-aa2f-3ca530a865e3,New,54,Citrus Squeezer Yellow,kitchen-accessories,,direct,5,8.99,12.1,6.44,12.75
+6c2cc6ef-21f0-41ca-a70b-c7e1f7870431,2025-01-14,6d64d6ba-843f-4722-9497-f682301b1af1,Regular,39,Soft Drinks,groceries,,direct,1,1.99,17.48,1.23,0.76
+4eac886c-1a88-4657-abd8-071bfd3dbe2f,2025-06-16,1be64e06-04da-449e-a015-a6a2607916d6,New,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,direct,2,19.99,18.19,15.77,8.44
+e74b6eb3-43ed-42ee-974f-368892dbf52a,2024-09-16,2e96de12-1cac-4453-a75a-071e8cb8f81e,VIP,100,Apple Airpods,mobile-accessories,Apple,direct,4,129.99,15.54,72.87,228.48
+b6e61e96-807b-402f-817b-be0f398b891c,2025-06-10,0c47cf4d-537f-48b1-b62b-c788ebd6d7d9,New,7,Chanel Coco Noir Eau De,fragrances,Chanel,direct,6,129.99,16.51,81.49,290.99
+61e1a168-7719-4b69-955e-dbf1560dbc40,2024-12-06,30627f7b-bf3b-4ebe-9d2a-2b653c0aebe5,Regular,73,Spice Rack,kitchen-accessories,,e-commerce,4,19.99,12.09,14.81,20.74
+a88bd90c-333e-4f32-b819-f92dc24adf5b,2025-03-02,b4a9e1ae-3f7f-4e70-91c3-637f241a22b8,VIP,11,Annibale Colombo Bed,furniture,Annibale Colombo,e-commerce,2,1899.99,8.57,972.34,1855.31
+badc4e0a-89d8-48af-8feb-e5ced707b8b2,2025-04-24,9b4c7e1a-8457-4f47-abf7-03cc4bad9945,Regular,39,Soft Drinks,groceries,,e-commerce,5,1.99,17.48,1.44,2.73
+27e39f68-0bce-444b-8d36-643a331ce800,2025-05-24,58971817-54c7-4c64-b179-65514504c9ac,New,65,Lunch Box,kitchen-accessories,,e-commerce,10,12.99,10.34,7.61,53.78
+9c7e4079-80a5-4199-b585-1e84254a1fee,2025-01-15,1ec80e1a-74e1-42e7-bc99-bbbe7797fb6f,VIP,32,Milk,groceries,,e-commerce,9,3.49,13.74,2.55,8.42
+009b8eec-db7a-434e-b1f2-4555679d1f1e,2024-09-29,dcdfb41a-51d5-491a-a5f5-872d11e3bba9,Regular,26,Green Chili Pepper,groceries,,e-commerce,10,0.99,1.0,0.59,4.0
+9adf39c5-e9b9-489e-b0e6-8ed1186c95c1,2025-02-07,e9c98c36-fa18-4441-8b0e-0deaa8075df9,VIP,41,Tissue Paper Box,groceries,,direct,5,2.49,13.28,1.27,6.11
+0f3b379d-32c4-4b5e-98fc-f2dd314ff0f6,2024-09-23,c4035f84-679c-48a1-81ea-43be77809d80,New,45,House Showpiece Plant,home-decoration,,e-commerce,3,39.99,7.46,26.67,39.97
+0c004789-13fa-40c9-8927-a58bc7fbf95c,2024-12-11,fb866a1b-1732-4dbc-bc2c-e2ea7c4036a7,VIP,92,Sports Sneakers Off White Red,mens-shoes,Off White,direct,7,109.99,0.04,78.93,217.39
+06f8bd7d-37f6-4c06-aef4-b0dc98397088,2025-06-15,d2b8ef37-1ae9-43fd-ac73-2e8caa5ecc8e,New,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,direct,10,89.99,5.99,45.46,445.3
+79884e47-8878-4f53-848f-0411d8512e56,2024-07-10,442f59cc-ff2e-4ae1-a193-1d8ec787eb32,New,96,Rolex Cellini Moonphase,mens-watches,Rolex,direct,5,12999.99,17.52,8567.03,22164.78
+51e4fbd0-e3b5-4245-b0e0-1ec97e3ec388,2025-04-29,65be5cd9-23f4-4759-ab84-e2f8d0580960,New,81,Lenovo Yoga 920,laptops,Lenovo,e-commerce,6,1099.99,6.55,807.5,1754.93
+8b5ea973-8522-46e6-b740-407456ca775e,2024-11-14,befb0df0-f08d-4956-9784-b5a82c5de019,Regular,76,Wooden Rolling Pin,kitchen-accessories,,direct,8,11.99,9.75,7.7,34.32

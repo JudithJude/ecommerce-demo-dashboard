@@ -1,0 +1,7 @@
+pandas
+requests
+faker
+python-dotenv
+SQLAlchemy
+pymysql
+cryptography
